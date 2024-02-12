@@ -1,8 +1,8 @@
 # gtfs-headway-explorer
-Headway is calculated from GTFS dataset
+Identify route headway from GTFS dataset by user defined time of day (TOD)
 
 ## Description
-Transportation modelers often update transit network and parameter. Under the help of GTFS data released by transit agencies, the practice can be automated.
+Transportation modelers frequently update transit networks and parameters to keep the model parameters up to date. This repository utilizes General Transit Feed Specification (GTFS) data provided by transit agencies to determine route headways based on Time of Day (TOD). The automation included here calculates headway by dividing the time duration by the number of buses arriving at the same stop within a specific TOD. The shape data is also read to generate itineraries that can be compared with the existing model network. This process aids in ensuring that the transit model aligns closely with the latest transit conditions and provides a valuable tool for transportation planning and analysis.
 
 ## Getting Started
 
