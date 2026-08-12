@@ -1,0 +1,1904 @@
+departure_time,stop_id,route_name,shape_id,trip_headsign,direction_id,time_diff,TOD
+0 days 06:45:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,,AM
+0 days 07:15:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,30.0,AM
+0 days 07:45:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,30.0,AM
+0 days 08:15:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,30.0,AM
+0 days 08:45:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,30.0,AM
+0 days 09:15:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,,MD
+0 days 09:45:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,30.0,MD
+0 days 10:15:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,30.0,MD
+0 days 10:45:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,30.0,MD
+0 days 11:15:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,30.0,MD
+0 days 11:45:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,30.0,MD
+0 days 12:15:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,30.0,MD
+0 days 12:45:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,30.0,MD
+0 days 13:15:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,30.0,MD
+0 days 13:45:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,30.0,MD
+0 days 14:15:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,30.0,MD
+0 days 14:45:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,,PM
+0 days 15:15:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,30.0,PM
+0 days 15:45:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,30.0,PM
+0 days 16:15:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,30.0,PM
+0 days 16:45:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,30.0,PM
+0 days 17:15:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,30.0,PM
+0 days 17:45:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,30.0,PM
+0 days 18:15:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,30.0,PM
+0 days 18:45:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,,EV
+0 days 19:45:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,60.0,EV
+0 days 20:45:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,60.0,EV
+0 days 21:45:00,145,AATA_003_EB,shp-3-53, Huron River to YTC,1,60.0,EV
+0 days 06:15:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,,NT
+0 days 06:45:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,,AM
+0 days 07:15:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,30.0,AM
+0 days 07:45:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,30.0,AM
+0 days 08:15:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,30.0,AM
+0 days 08:45:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,30.0,AM
+0 days 09:15:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,,MD
+0 days 09:45:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,30.0,MD
+0 days 10:15:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,30.0,MD
+0 days 10:45:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,30.0,MD
+0 days 11:15:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,30.0,MD
+0 days 11:45:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,30.0,MD
+0 days 12:15:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,30.0,MD
+0 days 12:45:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,30.0,MD
+0 days 13:15:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,30.0,MD
+0 days 13:45:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,30.0,MD
+0 days 14:15:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,30.0,MD
+0 days 14:45:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,,PM
+0 days 15:15:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,30.0,PM
+0 days 15:45:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,30.0,PM
+0 days 16:15:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,30.0,PM
+0 days 16:45:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,30.0,PM
+0 days 17:15:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,30.0,PM
+0 days 17:45:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,30.0,PM
+0 days 18:15:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,30.0,PM
+0 days 18:45:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,,EV
+0 days 19:45:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,60.0,EV
+0 days 20:45:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,60.0,EV
+0 days 21:45:00,101,AATA_003_WB,shp-3-03, Huron River to BTC,0,60.0,EV
+0 days 06:46:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,,AM
+0 days 06:54:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,AM
+0 days 07:02:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,AM
+0 days 07:10:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,AM
+0 days 07:18:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,AM
+0 days 07:26:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,AM
+0 days 07:34:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,AM
+0 days 07:42:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,AM
+0 days 07:50:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,AM
+0 days 07:58:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,AM
+0 days 08:06:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,AM
+0 days 08:14:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,AM
+0 days 08:22:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,AM
+0 days 08:30:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,AM
+0 days 08:38:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,AM
+0 days 08:46:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,AM
+0 days 08:54:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,AM
+0 days 09:02:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,,MD
+0 days 09:10:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,MD
+0 days 09:18:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,MD
+0 days 09:26:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,MD
+0 days 09:34:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,MD
+0 days 09:42:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,MD
+0 days 09:50:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,MD
+0 days 10:00:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,10.0,MD
+0 days 10:15:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,15.0,MD
+0 days 10:30:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,15.0,MD
+0 days 10:45:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,15.0,MD
+0 days 11:00:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,15.0,MD
+0 days 11:15:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,15.0,MD
+0 days 11:30:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,15.0,MD
+0 days 11:45:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,15.0,MD
+0 days 12:00:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,15.0,MD
+0 days 12:15:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,15.0,MD
+0 days 12:30:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,15.0,MD
+0 days 12:45:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,15.0,MD
+0 days 13:00:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,15.0,MD
+0 days 13:15:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,15.0,MD
+0 days 13:30:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,15.0,MD
+0 days 13:45:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,15.0,MD
+0 days 14:00:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,15.0,MD
+0 days 14:15:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,15.0,MD
+0 days 14:30:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,,PM
+0 days 14:45:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,15.0,PM
+0 days 15:00:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,15.0,PM
+0 days 15:08:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 15:16:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 15:24:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 15:32:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 15:40:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 15:48:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 15:56:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 16:04:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 16:12:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 16:20:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 16:28:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 16:36:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 16:44:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 16:52:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 17:00:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 17:08:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 17:16:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 17:24:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 17:32:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 17:40:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 17:48:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 17:56:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 18:04:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 18:12:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,8.000000000000002,PM
+0 days 18:28:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,16.000000000000004,PM
+0 days 18:45:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,,EV
+0 days 19:15:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,30.0,EV
+0 days 19:45:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,30.0,EV
+0 days 20:15:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,30.0,EV
+0 days 20:45:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,30.0,EV
+0 days 21:15:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,30.0,EV
+0 days 21:45:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,30.0,EV
+0 days 22:15:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,30.0,EV
+0 days 22:45:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,30.0,EV
+0 days 23:15:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,30.0,EV
+0 days 23:45:00,163,AATA_004_EB,shp-4-55,Washtenaw to YTC,1,30.0,EV
+0 days 06:02:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,,NT
+0 days 06:10:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,NT
+0 days 06:18:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,NT
+0 days 06:26:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,NT
+0 days 06:34:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,,AM
+0 days 06:42:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,AM
+0 days 06:50:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,AM
+0 days 06:58:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,AM
+0 days 07:06:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,AM
+0 days 07:14:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,AM
+0 days 07:22:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,AM
+0 days 07:30:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,AM
+0 days 07:38:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,AM
+0 days 07:46:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,AM
+0 days 07:54:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,AM
+0 days 08:02:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,AM
+0 days 08:10:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,AM
+0 days 08:18:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,AM
+0 days 08:26:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,AM
+0 days 08:34:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,AM
+0 days 08:42:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,AM
+0 days 08:50:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,AM
+0 days 08:58:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,AM
+0 days 09:06:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,,MD
+0 days 09:14:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,MD
+0 days 09:22:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,MD
+0 days 09:30:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,MD
+0 days 09:38:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,MD
+0 days 09:46:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,MD
+0 days 09:54:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,MD
+0 days 10:10:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,16.000000000000004,MD
+0 days 10:26:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,16.000000000000004,MD
+0 days 10:45:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,19.0,MD
+0 days 11:00:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,15.0,MD
+0 days 11:15:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,15.0,MD
+0 days 11:30:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,15.0,MD
+0 days 11:45:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,15.0,MD
+0 days 12:00:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,15.0,MD
+0 days 12:15:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,15.0,MD
+0 days 12:30:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,15.0,MD
+0 days 12:45:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,15.0,MD
+0 days 13:00:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,15.0,MD
+0 days 13:15:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,15.0,MD
+0 days 13:30:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,15.0,MD
+0 days 13:45:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,15.0,MD
+0 days 14:00:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,15.0,MD
+0 days 14:15:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,15.0,MD
+0 days 14:30:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,,PM
+0 days 14:45:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,15.0,PM
+0 days 15:00:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,15.0,PM
+0 days 15:15:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,15.0,PM
+0 days 15:30:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,15.0,PM
+0 days 15:52:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,22.0,PM
+0 days 16:00:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,PM
+0 days 16:08:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,PM
+0 days 16:16:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,PM
+0 days 16:24:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,PM
+0 days 16:32:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,PM
+0 days 16:40:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,PM
+0 days 16:48:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,PM
+0 days 16:56:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,PM
+0 days 17:04:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,PM
+0 days 17:12:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,PM
+0 days 17:20:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,PM
+0 days 17:28:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,PM
+0 days 17:36:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,PM
+0 days 17:44:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,PM
+0 days 17:52:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,PM
+0 days 18:00:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,8.000000000000002,PM
+0 days 18:30:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,,EV
+0 days 19:00:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,30.0,EV
+0 days 19:30:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,30.0,EV
+0 days 20:00:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,30.0,EV
+0 days 20:30:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,30.0,EV
+0 days 21:00:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,30.0,EV
+0 days 21:30:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,30.0,EV
+0 days 22:00:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,30.0,EV
+0 days 22:30:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,30.0,EV
+0 days 23:00:00,1338,AATA_004_WB,shp-4-06,Washtenaw to BTC,0,30.0,EV
+0 days 06:45:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,,AM
+0 days 07:15:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,AM
+0 days 07:45:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,AM
+0 days 08:15:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,AM
+0 days 08:45:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,AM
+0 days 09:15:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,,MD
+0 days 09:45:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,MD
+0 days 10:15:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,MD
+0 days 10:45:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,MD
+0 days 11:15:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,MD
+0 days 11:45:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,MD
+0 days 12:15:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,MD
+0 days 12:45:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,MD
+0 days 13:15:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,MD
+0 days 13:45:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,MD
+0 days 14:15:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,MD
+0 days 14:45:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,,PM
+0 days 15:15:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,PM
+0 days 15:45:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,PM
+0 days 16:15:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,PM
+0 days 16:45:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,PM
+0 days 17:15:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,PM
+0 days 17:45:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,PM
+0 days 18:15:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,PM
+0 days 18:45:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,,EV
+0 days 19:15:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,EV
+0 days 19:45:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,EV
+0 days 20:15:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,EV
+0 days 20:45:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,EV
+0 days 21:15:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,EV
+0 days 21:45:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,EV
+0 days 22:15:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,EV
+0 days 22:45:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,EV
+0 days 23:15:00,122,AATA_005A_EB,shp-5-07,Packard to Ypsilanti Transit Ctr,1,30.0,EV
+0 days 06:08:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,,NT
+0 days 06:38:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,,AM
+0 days 07:08:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,AM
+0 days 07:38:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,AM
+0 days 08:08:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,AM
+0 days 08:38:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,AM
+0 days 09:08:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,,MD
+0 days 09:38:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,MD
+0 days 10:08:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,MD
+0 days 10:38:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,MD
+0 days 11:08:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,MD
+0 days 11:38:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,MD
+0 days 12:08:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,MD
+0 days 12:38:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,MD
+0 days 13:08:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,MD
+0 days 13:38:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,MD
+0 days 14:08:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,MD
+0 days 14:38:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,,PM
+0 days 15:08:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,PM
+0 days 15:38:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,PM
+0 days 16:08:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,PM
+0 days 16:38:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,PM
+0 days 17:08:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,PM
+0 days 17:38:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,PM
+0 days 18:08:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,PM
+0 days 19:00:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,,EV
+0 days 19:30:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,EV
+0 days 20:00:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,EV
+0 days 20:30:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,EV
+0 days 21:00:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,EV
+0 days 21:30:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,EV
+0 days 22:00:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,EV
+0 days 22:30:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,EV
+0 days 23:00:00,101,AATA_005A_WB,shp-5-01,A Packard to BTC,0,30.0,EV
+0 days 07:00:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,,AM
+0 days 07:30:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,30.0,AM
+0 days 08:00:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,30.0,AM
+0 days 08:30:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,30.0,AM
+0 days 09:00:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,,MD
+0 days 09:30:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,30.0,MD
+0 days 10:00:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,30.0,MD
+0 days 10:30:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,30.0,MD
+0 days 11:00:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,30.0,MD
+0 days 11:30:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,30.0,MD
+0 days 12:00:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,30.0,MD
+0 days 12:30:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,30.0,MD
+0 days 13:00:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,30.0,MD
+0 days 13:30:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,30.0,MD
+0 days 14:00:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,30.0,MD
+0 days 14:30:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,,PM
+0 days 15:00:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,30.0,PM
+0 days 15:30:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,30.0,PM
+0 days 16:00:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,30.0,PM
+0 days 16:30:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,30.0,PM
+0 days 17:00:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,30.0,PM
+0 days 17:30:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,30.0,PM
+0 days 18:00:00,122,AATA_005B_EB,shp-5-08,Packard to Meijer: Carpenter Rd,1,30.0,PM
+0 days 06:38:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,,AM
+0 days 07:08:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,30.0,AM
+0 days 07:38:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,30.0,AM
+0 days 08:08:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,30.0,AM
+0 days 08:38:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,30.0,AM
+0 days 09:08:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,,MD
+0 days 09:38:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,30.0,MD
+0 days 10:08:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,30.0,MD
+0 days 10:38:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,30.0,MD
+0 days 11:08:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,30.0,MD
+0 days 11:38:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,30.0,MD
+0 days 12:08:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,30.0,MD
+0 days 12:38:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,30.0,MD
+0 days 13:08:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,30.0,MD
+0 days 13:38:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,30.0,MD
+0 days 14:08:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,30.0,MD
+0 days 14:38:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,,PM
+0 days 15:08:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,30.0,PM
+0 days 15:38:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,30.0,PM
+0 days 16:08:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,30.0,PM
+0 days 16:38:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,30.0,PM
+0 days 17:08:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,30.0,PM
+0 days 17:38:00,617,AATA_005B_WB,shp-5-02,B Packard to BTC,0,30.0,PM
+0 days 06:45:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,,AM
+0 days 07:15:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,30.0,AM
+0 days 07:45:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,30.0,AM
+0 days 08:15:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,30.0,AM
+0 days 08:45:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,30.0,AM
+0 days 09:15:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,,MD
+0 days 09:45:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,30.0,MD
+0 days 10:15:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,30.0,MD
+0 days 10:45:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,30.0,MD
+0 days 11:15:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,30.0,MD
+0 days 11:45:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,30.0,MD
+0 days 12:15:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,30.0,MD
+0 days 12:45:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,30.0,MD
+0 days 13:15:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,30.0,MD
+0 days 13:45:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,30.0,MD
+0 days 14:15:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,30.0,MD
+0 days 14:45:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,,PM
+0 days 15:15:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,30.0,PM
+0 days 15:45:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,30.0,PM
+0 days 16:15:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,30.0,PM
+0 days 16:45:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,30.0,PM
+0 days 17:15:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,30.0,PM
+0 days 17:45:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,30.0,PM
+0 days 18:15:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,30.0,PM
+0 days 18:45:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,,EV
+0 days 19:45:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,60.0,EV
+0 days 20:45:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,60.0,EV
+0 days 21:45:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,60.0,EV
+0 days 22:45:00,118,AATA_006_EB,shp-6-62,Ellsworth to Ypsilanti Transit Ctr,1,60.0,EV
+0 days 06:45:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,,AM
+0 days 07:15:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,30.0,AM
+0 days 07:45:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,30.0,AM
+0 days 08:15:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,30.0,AM
+0 days 08:45:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,30.0,AM
+0 days 09:15:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,,MD
+0 days 09:45:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,30.0,MD
+0 days 10:15:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,30.0,MD
+0 days 10:45:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,30.0,MD
+0 days 11:15:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,30.0,MD
+0 days 11:45:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,30.0,MD
+0 days 12:15:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,30.0,MD
+0 days 12:45:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,30.0,MD
+0 days 13:15:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,30.0,MD
+0 days 13:45:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,30.0,MD
+0 days 14:15:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,30.0,MD
+0 days 14:45:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,,PM
+0 days 15:15:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,30.0,PM
+0 days 15:45:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,30.0,PM
+0 days 16:15:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,30.0,PM
+0 days 16:45:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,30.0,PM
+0 days 17:15:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,30.0,PM
+0 days 17:45:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,30.0,PM
+0 days 18:15:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,30.0,PM
+0 days 18:45:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,,EV
+0 days 19:45:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,60.0,EV
+0 days 20:45:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,60.0,EV
+0 days 21:45:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,60.0,EV
+0 days 22:45:00,108,AATA_006_WB,shp-6-10,Ellsworth to Blake Transit Ctr,0,60.0,EV
+0 days 06:30:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,,AM
+0 days 07:00:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,AM
+0 days 07:30:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,AM
+0 days 08:00:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,AM
+0 days 08:30:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,AM
+0 days 09:00:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,,MD
+0 days 09:30:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,MD
+0 days 10:00:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,MD
+0 days 10:30:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,MD
+0 days 11:00:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,MD
+0 days 11:30:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,MD
+0 days 12:00:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,MD
+0 days 12:30:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,MD
+0 days 13:00:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,MD
+0 days 13:30:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,MD
+0 days 14:00:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,MD
+0 days 14:30:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,,PM
+0 days 15:00:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,PM
+0 days 15:30:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,PM
+0 days 16:00:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,PM
+0 days 16:30:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,PM
+0 days 17:00:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,PM
+0 days 17:30:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,PM
+0 days 18:00:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,PM
+0 days 19:00:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,,EV
+0 days 20:00:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,60.0,EV
+0 days 21:00:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,60.0,EV
+0 days 22:00:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,60.0,EV
+0 days 23:00:00,160,AATA_022_EB,shp-22-04,Pontiac - Dhu Varren to Pierpont Commons,1,60.0,EV
+0 days 06:07:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,,NT
+0 days 06:37:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,,AM
+0 days 07:07:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,30.0,AM
+0 days 07:37:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,30.0,AM
+0 days 08:07:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,30.0,AM
+0 days 08:37:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,30.0,AM
+0 days 09:07:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,,MD
+0 days 09:37:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,30.0,MD
+0 days 10:00:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,23.0,MD
+0 days 10:30:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,30.0,MD
+0 days 11:00:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,30.0,MD
+0 days 11:30:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,30.0,MD
+0 days 12:00:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,30.0,MD
+0 days 12:30:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,30.0,MD
+0 days 13:00:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,30.0,MD
+0 days 13:30:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,30.0,MD
+0 days 14:00:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,30.0,MD
+0 days 14:37:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,,PM
+0 days 15:07:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,30.0,PM
+0 days 15:37:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,30.0,PM
+0 days 16:07:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,30.0,PM
+0 days 16:37:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,30.0,PM
+0 days 17:07:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,30.0,PM
+0 days 17:37:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,30.0,PM
+0 days 18:07:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,30.0,PM
+0 days 18:37:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,,EV
+0 days 19:37:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,60.0,EV
+0 days 20:30:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,53.0,EV
+0 days 21:30:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,60.0,EV
+0 days 22:30:00,294,AATA_022_WB,shp-22-01,Pontiac - Dhu Varren to BTC,0,60.0,EV
+0 days 18:15:00,163,AATA_023_EB_Green,shp-23-59,Plymouth to Green Rd P&R,1,,PM
+0 days 18:45:00,163,AATA_023_EB_Green,shp-23-59,Plymouth to Green Rd P&R,1,,EV
+0 days 19:15:00,163,AATA_023_EB_Green,shp-23-59,Plymouth to Green Rd P&R,1,30.0,EV
+0 days 19:45:00,163,AATA_023_EB_Green,shp-23-59,Plymouth to Green Rd P&R,1,30.0,EV
+0 days 20:15:00,163,AATA_023_EB_Green,shp-23-59,Plymouth to Green Rd P&R,1,30.0,EV
+0 days 20:45:00,163,AATA_023_EB_Green,shp-23-59,Plymouth to Green Rd P&R,1,30.0,EV
+0 days 21:15:00,163,AATA_023_EB_Green,shp-23-59,Plymouth to Green Rd P&R,1,30.0,EV
+0 days 21:45:00,163,AATA_023_EB_Green,shp-23-59,Plymouth to Green Rd P&R,1,30.0,EV
+0 days 22:15:00,163,AATA_023_EB_Green,shp-23-59,Plymouth to Green Rd P&R,1,30.0,EV
+0 days 22:45:00,163,AATA_023_EB_Green,shp-23-59,Plymouth to Green Rd P&R,1,30.0,EV
+0 days 23:15:00,163,AATA_023_EB_Green,shp-23-59,Plymouth to Green Rd P&R,1,30.0,EV
+0 days 06:30:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,,AM
+0 days 06:45:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,AM
+0 days 07:00:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,AM
+0 days 07:15:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,AM
+0 days 07:30:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,AM
+0 days 07:45:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,AM
+0 days 08:00:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,AM
+0 days 08:15:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,AM
+0 days 08:30:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,AM
+0 days 08:45:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,AM
+0 days 09:00:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,,MD
+0 days 09:15:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,MD
+0 days 09:30:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,MD
+0 days 09:45:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,MD
+0 days 10:00:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,MD
+0 days 10:15:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,MD
+0 days 10:30:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,MD
+0 days 10:45:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,MD
+0 days 11:00:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,MD
+0 days 11:15:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,MD
+0 days 11:30:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,MD
+0 days 11:45:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,MD
+0 days 12:00:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,MD
+0 days 12:15:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,MD
+0 days 12:30:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,MD
+0 days 12:45:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,MD
+0 days 13:00:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,MD
+0 days 13:15:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,MD
+0 days 13:30:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,MD
+0 days 13:45:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,MD
+0 days 14:00:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,MD
+0 days 14:15:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,MD
+0 days 14:30:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,,PM
+0 days 14:45:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,PM
+0 days 15:00:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,PM
+0 days 15:15:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,PM
+0 days 15:30:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,PM
+0 days 15:45:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,PM
+0 days 16:00:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,PM
+0 days 16:15:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,PM
+0 days 16:30:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,PM
+0 days 16:45:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,PM
+0 days 17:00:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,PM
+0 days 17:15:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,PM
+0 days 17:30:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,PM
+0 days 17:45:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,PM
+0 days 18:00:00,163,AATA_023_EB_Plymouth,shp-23-60,Plymouth to Plymouth Rd P&R,1,15.0,PM
+0 days 19:00:00,165,AATA_023_WB_Green,shp-23-07,Plymouth to Blake Transit Ctr,0,,EV
+0 days 19:30:00,165,AATA_023_WB_Green,shp-23-07,Plymouth to Blake Transit Ctr,0,30.0,EV
+0 days 20:00:00,165,AATA_023_WB_Green,shp-23-07,Plymouth to Blake Transit Ctr,0,30.0,EV
+0 days 20:30:00,165,AATA_023_WB_Green,shp-23-07,Plymouth to Blake Transit Ctr,0,30.0,EV
+0 days 21:00:00,165,AATA_023_WB_Green,shp-23-07,Plymouth to Blake Transit Ctr,0,30.0,EV
+0 days 21:30:00,165,AATA_023_WB_Green,shp-23-07,Plymouth to Blake Transit Ctr,0,30.0,EV
+0 days 22:00:00,165,AATA_023_WB_Green,shp-23-07,Plymouth to Blake Transit Ctr,0,30.0,EV
+0 days 22:30:00,165,AATA_023_WB_Green,shp-23-07,Plymouth to Blake Transit Ctr,0,30.0,EV
+0 days 06:30:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,,AM
+0 days 06:45:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,AM
+0 days 07:00:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,AM
+0 days 07:15:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,AM
+0 days 07:30:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,AM
+0 days 07:45:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,AM
+0 days 08:00:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,AM
+0 days 08:15:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,AM
+0 days 08:30:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,AM
+0 days 08:45:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,AM
+0 days 09:00:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,,MD
+0 days 09:15:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,MD
+0 days 09:30:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,MD
+0 days 09:37:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,7.0,MD
+0 days 09:52:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,MD
+0 days 10:07:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,MD
+0 days 10:22:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,MD
+0 days 10:37:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,MD
+0 days 10:52:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,MD
+0 days 11:07:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,MD
+0 days 11:22:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,MD
+0 days 11:37:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,MD
+0 days 11:52:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,MD
+0 days 12:07:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,MD
+0 days 12:22:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,MD
+0 days 12:37:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,MD
+0 days 12:52:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,MD
+0 days 13:07:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,MD
+0 days 13:22:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,MD
+0 days 13:37:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,MD
+0 days 13:52:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,MD
+0 days 14:07:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,MD
+0 days 14:22:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,MD
+0 days 14:37:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,,PM
+0 days 14:52:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,PM
+0 days 15:07:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,PM
+0 days 15:30:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,23.0,PM
+0 days 15:45:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,PM
+0 days 16:00:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,PM
+0 days 16:15:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,PM
+0 days 16:30:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,PM
+0 days 16:45:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,PM
+0 days 17:00:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,PM
+0 days 17:15:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,PM
+0 days 17:30:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,PM
+0 days 17:45:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,PM
+0 days 18:00:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,15.0,PM
+0 days 18:30:00,378,AATA_023_WB_Plymouth,shp-23-06,Plymouth to Blake Transit Ctr,0,,EV
+0 days 06:30:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,,AM
+0 days 07:00:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,AM
+0 days 07:30:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,AM
+0 days 08:00:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,AM
+0 days 08:30:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,AM
+0 days 09:00:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,,MD
+0 days 09:30:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,MD
+0 days 10:00:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,MD
+0 days 10:30:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,MD
+0 days 11:00:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,MD
+0 days 11:30:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,MD
+0 days 12:00:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,MD
+0 days 12:30:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,MD
+0 days 13:00:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,MD
+0 days 13:30:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,MD
+0 days 14:00:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,MD
+0 days 14:30:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,,PM
+0 days 15:00:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,PM
+0 days 15:30:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,PM
+0 days 16:00:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,PM
+0 days 16:30:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,PM
+0 days 17:00:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,PM
+0 days 17:30:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,PM
+0 days 18:00:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,PM
+0 days 18:30:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,,EV
+0 days 19:15:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,45.0,EV
+0 days 20:15:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,60.0,EV
+0 days 21:15:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,60.0,EV
+0 days 22:15:00,118,AATA_024_EB,shp-24-59,Eisenhower - Golfside to St. Joe's Hospital,1,60.0,EV
+0 days 06:13:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,,NT
+0 days 06:43:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,,AM
+0 days 07:13:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,30.0,AM
+0 days 07:43:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,30.0,AM
+0 days 08:13:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,30.0,AM
+0 days 08:43:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,30.0,AM
+0 days 09:24:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,,MD
+0 days 09:54:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,30.0,MD
+0 days 10:24:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,30.0,MD
+0 days 10:54:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,30.0,MD
+0 days 11:24:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,30.0,MD
+0 days 11:54:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,30.0,MD
+0 days 12:24:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,30.0,MD
+0 days 12:54:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,30.0,MD
+0 days 13:24:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,30.0,MD
+0 days 13:54:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,30.0,MD
+0 days 14:24:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,30.0,MD
+0 days 14:54:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,,PM
+0 days 15:24:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,30.0,PM
+0 days 15:43:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,19.0,PM
+0 days 16:13:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,30.0,PM
+0 days 16:43:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,30.0,PM
+0 days 17:13:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,30.0,PM
+0 days 17:43:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,30.0,PM
+0 days 18:13:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,30.0,PM
+0 days 19:10:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,,EV
+0 days 20:09:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,59.0,EV
+0 days 21:09:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,60.0,EV
+0 days 22:09:00,505,AATA_024_WB,shp-24-01,Eisenhower - Golfside to Blake Transit Ctr,0,60.0,EV
+0 days 06:17:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,,NT
+0 days 06:47:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,,AM
+0 days 07:17:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,AM
+0 days 07:47:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,AM
+0 days 08:17:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,AM
+0 days 08:47:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,AM
+0 days 09:17:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,,MD
+0 days 09:47:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,MD
+0 days 10:17:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,MD
+0 days 10:47:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,MD
+0 days 11:17:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,MD
+0 days 11:47:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,MD
+0 days 12:17:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,MD
+0 days 12:47:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,MD
+0 days 13:17:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,MD
+0 days 13:47:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,MD
+0 days 14:17:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,MD
+0 days 14:47:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,,PM
+0 days 15:17:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,PM
+0 days 15:47:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,PM
+0 days 16:17:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,PM
+0 days 16:47:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,PM
+0 days 17:17:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,PM
+0 days 17:47:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,PM
+0 days 18:17:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,PM
+0 days 18:47:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,,EV
+0 days 19:17:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,EV
+0 days 19:47:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,EV
+0 days 20:47:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,60.0,EV
+0 days 21:47:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,60.0,EV
+0 days 22:47:00,237,AATA_025_NB,shp-25-09,Ann Arbor - Saline Rd to Blake Transit Ctr,0,60.0,EV
+0 days 06:30:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,,AM
+0 days 07:00:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,AM
+0 days 07:30:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,AM
+0 days 08:00:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,AM
+0 days 08:30:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,AM
+0 days 09:00:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,,MD
+0 days 09:30:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,MD
+0 days 10:00:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,MD
+0 days 10:30:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,MD
+0 days 11:00:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,MD
+0 days 11:30:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,MD
+0 days 12:00:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,MD
+0 days 12:30:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,MD
+0 days 13:00:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,MD
+0 days 13:30:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,MD
+0 days 14:00:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,MD
+0 days 14:30:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,,PM
+0 days 15:00:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,PM
+0 days 15:30:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,PM
+0 days 16:00:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,PM
+0 days 16:30:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,PM
+0 days 17:00:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,PM
+0 days 17:30:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,PM
+0 days 18:00:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,PM
+0 days 18:30:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,,EV
+0 days 19:00:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,EV
+0 days 19:30:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,EV
+0 days 20:30:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,60.0,EV
+0 days 21:30:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,60.0,EV
+0 days 22:30:00,135,AATA_025_SB,shp-25-52,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,60.0,EV
+0 days 06:28:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,,NT
+0 days 06:58:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,,AM
+0 days 07:28:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,30.0,AM
+0 days 07:58:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,30.0,AM
+0 days 08:28:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,30.0,AM
+0 days 08:58:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,30.0,AM
+0 days 09:28:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,,MD
+0 days 09:58:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,30.0,MD
+0 days 10:28:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,30.0,MD
+0 days 11:28:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,60.0,MD
+0 days 12:28:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,60.0,MD
+0 days 13:28:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,60.0,MD
+0 days 14:28:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,60.0,MD
+0 days 15:28:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,,PM
+0 days 15:58:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,30.0,PM
+0 days 16:28:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,30.0,PM
+0 days 16:58:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,30.0,PM
+0 days 17:28:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,30.0,PM
+0 days 17:58:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,30.0,PM
+0 days 18:28:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,30.0,PM
+0 days 18:58:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,,EV
+0 days 19:58:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,60.0,EV
+0 days 20:58:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,60.0,EV
+0 days 21:58:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,60.0,EV
+0 days 22:58:00,1323,AATA_026_EB,shp-26-01,Scio Church to BTC,0,60.0,EV
+0 days 06:45:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,,AM
+0 days 07:15:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,30.0,AM
+0 days 07:45:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,30.0,AM
+0 days 08:15:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,30.0,AM
+0 days 08:45:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,30.0,AM
+0 days 09:15:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,,MD
+0 days 09:45:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,30.0,MD
+0 days 10:15:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,30.0,MD
+0 days 11:15:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,60.0,MD
+0 days 12:15:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,60.0,MD
+0 days 13:15:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,60.0,MD
+0 days 14:15:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,60.0,MD
+0 days 15:15:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,,PM
+0 days 15:45:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,30.0,PM
+0 days 16:15:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,30.0,PM
+0 days 16:45:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,30.0,PM
+0 days 17:15:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,30.0,PM
+0 days 17:45:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,30.0,PM
+0 days 18:15:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,30.0,PM
+0 days 18:45:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,,EV
+0 days 19:45:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,60.0,EV
+0 days 20:45:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,60.0,EV
+0 days 21:45:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,60.0,EV
+0 days 22:45:00,135,AATA_026_WB,shp-26-02,Scio Church to Scio Ridge,1,60.0,EV
+0 days 06:06:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,,NT
+0 days 06:36:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,,AM
+0 days 07:06:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,AM
+0 days 07:36:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,AM
+0 days 08:06:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,AM
+0 days 08:36:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,AM
+0 days 09:06:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,,MD
+0 days 09:36:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,MD
+0 days 10:06:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,MD
+0 days 10:36:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,MD
+0 days 11:06:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,MD
+0 days 11:36:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,MD
+0 days 12:06:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,MD
+0 days 12:36:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,MD
+0 days 13:06:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,MD
+0 days 13:36:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,MD
+0 days 14:06:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,MD
+0 days 14:36:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,,PM
+0 days 15:06:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,PM
+0 days 15:36:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,PM
+0 days 16:06:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,PM
+0 days 16:36:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,PM
+0 days 17:06:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,PM
+0 days 17:36:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,PM
+0 days 18:06:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,PM
+0 days 18:36:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,,EV
+0 days 19:06:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,EV
+0 days 20:06:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,60.0,EV
+0 days 21:06:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,60.0,EV
+0 days 22:06:00,237,AATA_027_NB,shp-27-04,W. Stadium - Oak Valley to Blake Transit Ctr,0,60.0,EV
+0 days 06:15:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,,NT
+0 days 06:45:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,,AM
+0 days 07:15:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,30.0,AM
+0 days 07:45:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,30.0,AM
+0 days 08:15:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,30.0,AM
+0 days 08:45:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,30.0,AM
+0 days 09:15:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,,MD
+0 days 09:45:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,30.0,MD
+0 days 10:15:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,30.0,MD
+0 days 10:45:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,30.0,MD
+0 days 11:15:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,30.0,MD
+0 days 11:45:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,30.0,MD
+0 days 12:15:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,30.0,MD
+0 days 12:45:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,30.0,MD
+0 days 13:15:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,30.0,MD
+0 days 13:45:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,30.0,MD
+0 days 14:15:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,30.0,MD
+0 days 14:45:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,,PM
+0 days 15:15:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,30.0,PM
+0 days 15:45:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,30.0,PM
+0 days 16:15:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,30.0,PM
+0 days 16:45:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,30.0,PM
+0 days 17:15:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,30.0,PM
+0 days 17:45:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,30.0,PM
+0 days 18:15:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,30.0,PM
+0 days 18:45:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,,EV
+0 days 19:45:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,60.0,EV
+0 days 20:45:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,60.0,EV
+0 days 21:45:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,60.0,EV
+0 days 22:45:00,135,AATA_027_SB,shp-27-52,W. Stadium - Oak Valley to Meijer,1,60.0,EV
+0 days 06:12:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,,NT
+0 days 06:27:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,15.0,NT
+0 days 06:42:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,,AM
+0 days 06:57:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,15.0,AM
+0 days 07:12:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,15.0,AM
+0 days 07:27:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,15.0,AM
+0 days 07:42:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,15.0,AM
+0 days 07:57:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,15.0,AM
+0 days 08:12:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,15.0,AM
+0 days 08:27:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,15.0,AM
+0 days 08:42:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,15.0,AM
+0 days 08:57:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,15.0,AM
+0 days 09:27:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,,MD
+0 days 09:57:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,30.0,MD
+0 days 10:27:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,30.0,MD
+0 days 10:57:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,30.0,MD
+0 days 11:27:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,30.0,MD
+0 days 11:57:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,30.0,MD
+0 days 12:27:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,30.0,MD
+0 days 12:57:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,30.0,MD
+0 days 13:27:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,30.0,MD
+0 days 13:57:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,30.0,MD
+0 days 14:27:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,30.0,MD
+0 days 14:57:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,,PM
+0 days 15:27:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,30.0,PM
+0 days 15:57:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,30.0,PM
+0 days 16:12:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,15.0,PM
+0 days 16:27:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,15.0,PM
+0 days 16:42:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,15.0,PM
+0 days 16:57:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,15.0,PM
+0 days 17:12:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,15.0,PM
+0 days 17:27:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,15.0,PM
+0 days 17:42:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,15.0,PM
+0 days 17:57:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,15.0,PM
+0 days 18:12:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,15.0,PM
+0 days 18:27:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,15.0,PM
+0 days 19:27:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,,EV
+0 days 20:27:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,60.0,EV
+0 days 21:27:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,60.0,EV
+0 days 22:27:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,60.0,EV
+0 days 23:27:00,808,AATA_028_EB,shp-28-10,28 Pauline to BTC,0,60.0,EV
+0 days 06:30:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,,AM
+0 days 06:45:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,15.0,AM
+0 days 07:00:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,15.0,AM
+0 days 07:15:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,15.0,AM
+0 days 07:30:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,15.0,AM
+0 days 07:45:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,15.0,AM
+0 days 08:00:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,15.0,AM
+0 days 08:15:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,15.0,AM
+0 days 08:30:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,15.0,AM
+0 days 08:45:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,15.0,AM
+0 days 09:15:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,,MD
+0 days 09:45:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,30.0,MD
+0 days 10:15:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,30.0,MD
+0 days 10:45:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,30.0,MD
+0 days 11:15:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,30.0,MD
+0 days 11:45:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,30.0,MD
+0 days 12:15:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,30.0,MD
+0 days 12:45:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,30.0,MD
+0 days 13:15:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,30.0,MD
+0 days 13:45:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,30.0,MD
+0 days 14:15:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,30.0,MD
+0 days 14:45:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,,PM
+0 days 15:15:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,30.0,PM
+0 days 15:45:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,30.0,PM
+0 days 16:00:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,15.0,PM
+0 days 16:15:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,15.0,PM
+0 days 16:30:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,15.0,PM
+0 days 16:45:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,15.0,PM
+0 days 17:00:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,15.0,PM
+0 days 17:15:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,15.0,PM
+0 days 17:30:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,15.0,PM
+0 days 17:45:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,15.0,PM
+0 days 18:00:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,15.0,PM
+0 days 18:15:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,15.0,PM
+0 days 19:15:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,,EV
+0 days 20:15:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,60.0,EV
+0 days 21:15:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,60.0,EV
+0 days 22:15:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,60.0,EV
+0 days 23:15:00,135,AATA_028_WB,shp-28-12,Pauline to Maple & Pennsylvania,1,60.0,EV
+0 days 06:26:00,1324,AATA_029_EB,shp-29-01,Liberty to Blake Transit Ctr,0,,NT
+0 days 06:56:00,1324,AATA_029_EB,shp-29-01,Liberty to Blake Transit Ctr,0,,AM
+0 days 07:26:00,1324,AATA_029_EB,shp-29-01,Liberty to Blake Transit Ctr,0,30.0,AM
+0 days 07:56:00,1324,AATA_029_EB,shp-29-01,Liberty to Blake Transit Ctr,0,30.0,AM
+0 days 08:26:00,1324,AATA_029_EB,shp-29-01,Liberty to Blake Transit Ctr,0,30.0,AM
+0 days 08:56:00,1324,AATA_029_EB,shp-29-01,Liberty to Blake Transit Ctr,0,30.0,AM
+0 days 09:26:00,1324,AATA_029_EB,shp-29-01,Liberty to Blake Transit Ctr,0,,MD
+0 days 09:56:00,1324,AATA_029_EB,shp-29-01,Liberty to Blake Transit Ctr,0,30.0,MD
+0 days 10:26:00,1324,AATA_029_EB,shp-29-01,Liberty to Blake Transit Ctr,0,30.0,MD
+0 days 10:56:00,1324,AATA_029_EB,shp-29-01,Liberty to Blake Transit Ctr,0,30.0,MD
+0 days 11:56:00,1324,AATA_029_EB,shp-29-01,Liberty to Blake Transit Ctr,0,60.0,MD
+0 days 12:56:00,1324,AATA_029_EB,shp-29-01,Liberty to Blake Transit Ctr,0,60.0,MD
+0 days 13:56:00,1324,AATA_029_EB,shp-29-01,Liberty to Blake Transit Ctr,0,60.0,MD
+0 days 14:56:00,1324,AATA_029_EB,shp-29-01,Liberty to Blake Transit Ctr,0,,PM
+0 days 15:56:00,1324,AATA_029_EB,shp-29-01,Liberty to Blake Transit Ctr,0,60.0,PM
+0 days 16:26:00,1324,AATA_029_EB,shp-29-01,Liberty to Blake Transit Ctr,0,30.0,PM
+0 days 16:56:00,1324,AATA_029_EB,shp-29-01,Liberty to Blake Transit Ctr,0,30.0,PM
+0 days 17:26:00,1324,AATA_029_EB,shp-29-01,Liberty to Blake Transit Ctr,0,30.0,PM
+0 days 17:56:00,1324,AATA_029_EB,shp-29-01,Liberty to Blake Transit Ctr,0,30.0,PM
+0 days 18:26:00,1324,AATA_029_EB,shp-29-01,Liberty to Blake Transit Ctr,0,30.0,PM
+0 days 06:45:00,160,AATA_029_WB,shp-29-51,Liberty to Scio Ridge,1,,AM
+0 days 07:15:00,160,AATA_029_WB,shp-29-51,Liberty to Scio Ridge,1,30.0,AM
+0 days 07:45:00,160,AATA_029_WB,shp-29-51,Liberty to Scio Ridge,1,30.0,AM
+0 days 08:15:00,160,AATA_029_WB,shp-29-51,Liberty to Scio Ridge,1,30.0,AM
+0 days 08:45:00,160,AATA_029_WB,shp-29-51,Liberty to Scio Ridge,1,30.0,AM
+0 days 09:15:00,160,AATA_029_WB,shp-29-51,Liberty to Scio Ridge,1,,MD
+0 days 09:45:00,160,AATA_029_WB,shp-29-51,Liberty to Scio Ridge,1,30.0,MD
+0 days 10:15:00,160,AATA_029_WB,shp-29-51,Liberty to Scio Ridge,1,30.0,MD
+0 days 10:45:00,160,AATA_029_WB,shp-29-51,Liberty to Scio Ridge,1,30.0,MD
+0 days 11:45:00,160,AATA_029_WB,shp-29-51,Liberty to Scio Ridge,1,60.0,MD
+0 days 12:45:00,160,AATA_029_WB,shp-29-51,Liberty to Scio Ridge,1,60.0,MD
+0 days 13:45:00,160,AATA_029_WB,shp-29-51,Liberty to Scio Ridge,1,60.0,MD
+0 days 14:45:00,160,AATA_029_WB,shp-29-51,Liberty to Scio Ridge,1,,PM
+0 days 15:45:00,160,AATA_029_WB,shp-29-51,Liberty to Scio Ridge,1,60.0,PM
+0 days 16:15:00,160,AATA_029_WB,shp-29-51,Liberty to Scio Ridge,1,30.0,PM
+0 days 16:45:00,160,AATA_029_WB,shp-29-51,Liberty to Scio Ridge,1,30.0,PM
+0 days 17:15:00,160,AATA_029_WB,shp-29-51,Liberty to Scio Ridge,1,30.0,PM
+0 days 17:45:00,160,AATA_029_WB,shp-29-51,Liberty to Scio Ridge,1,30.0,PM
+0 days 18:15:00,160,AATA_029_WB,shp-29-51,Liberty to Scio Ridge,1,30.0,PM
+0 days 06:00:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,,NT
+0 days 06:30:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,,AM
+0 days 07:00:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,AM
+0 days 07:30:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,AM
+0 days 08:00:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,AM
+0 days 08:30:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,AM
+0 days 09:00:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,,MD
+0 days 09:30:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,MD
+0 days 10:00:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,MD
+0 days 10:21:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,21.0,MD
+0 days 10:51:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,MD
+0 days 11:21:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,MD
+0 days 11:51:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,MD
+0 days 12:21:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,MD
+0 days 12:51:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,MD
+0 days 13:21:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,MD
+0 days 13:51:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,MD
+0 days 14:30:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,,PM
+0 days 15:00:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,PM
+0 days 15:30:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,PM
+0 days 16:00:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,PM
+0 days 16:30:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,PM
+0 days 17:00:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,PM
+0 days 17:30:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,PM
+0 days 18:00:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,PM
+0 days 18:30:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,,EV
+0 days 19:00:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,EV
+0 days 19:30:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,30.0,EV
+0 days 20:30:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,60.0,EV
+0 days 21:30:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,60.0,EV
+0 days 22:30:00,1194,AATA_030_EB,shp-30-51,Jackson Rd to BTC,0,60.0,EV
+0 days 06:30:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,,AM
+0 days 07:00:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,AM
+0 days 07:30:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,AM
+0 days 08:00:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,AM
+0 days 08:30:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,AM
+0 days 09:00:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,,MD
+0 days 09:30:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,MD
+0 days 10:00:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,MD
+0 days 10:30:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,MD
+0 days 11:00:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,MD
+0 days 11:30:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,MD
+0 days 12:00:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,MD
+0 days 12:30:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,MD
+0 days 13:00:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,MD
+0 days 13:30:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,MD
+0 days 14:00:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,MD
+0 days 14:30:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,,PM
+0 days 15:00:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,PM
+0 days 15:30:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,PM
+0 days 16:00:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,PM
+0 days 16:30:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,PM
+0 days 17:00:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,PM
+0 days 17:30:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,PM
+0 days 18:00:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,PM
+0 days 18:30:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,,EV
+0 days 19:00:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,30.0,EV
+0 days 20:00:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,60.0,EV
+0 days 21:00:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,60.0,EV
+0 days 22:00:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,60.0,EV
+0 days 23:00:00,154,AATA_030_WB,shp-30-05,Jackson Rd to Meijer: Jackson Rd,1,60.0,EV
+0 days 06:24:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,,NT
+0 days 06:54:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,,AM
+0 days 07:24:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,30.0,AM
+0 days 07:54:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,30.0,AM
+0 days 08:24:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,30.0,AM
+0 days 08:54:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,30.0,AM
+0 days 09:24:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,,MD
+0 days 09:54:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,30.0,MD
+0 days 10:24:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,30.0,MD
+0 days 10:54:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,30.0,MD
+0 days 11:24:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,30.0,MD
+0 days 11:54:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,30.0,MD
+0 days 12:24:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,30.0,MD
+0 days 12:54:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,30.0,MD
+0 days 13:24:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,30.0,MD
+0 days 13:54:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,30.0,MD
+0 days 14:24:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,30.0,MD
+0 days 14:54:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,,PM
+0 days 15:24:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,30.0,PM
+0 days 15:54:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,30.0,PM
+0 days 16:24:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,30.0,PM
+0 days 16:54:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,30.0,PM
+0 days 17:24:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,30.0,PM
+0 days 17:54:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,30.0,PM
+0 days 18:24:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,30.0,PM
+0 days 19:24:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,,EV
+0 days 20:24:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,60.0,EV
+0 days 21:24:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,60.0,EV
+0 days 22:24:00,91,AATA_031_EB,shp-31-04,Dexter Ave to Blake Transit Ctr,0,60.0,EV
+0 days 06:45:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,,AM
+0 days 07:15:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,30.0,AM
+0 days 07:45:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,30.0,AM
+0 days 08:15:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,30.0,AM
+0 days 08:45:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,30.0,AM
+0 days 09:15:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,,MD
+0 days 09:45:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,30.0,MD
+0 days 10:15:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,30.0,MD
+0 days 10:45:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,30.0,MD
+0 days 11:15:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,30.0,MD
+0 days 11:45:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,30.0,MD
+0 days 12:15:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,30.0,MD
+0 days 12:45:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,30.0,MD
+0 days 13:15:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,30.0,MD
+0 days 13:45:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,30.0,MD
+0 days 14:15:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,30.0,MD
+0 days 14:45:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,,PM
+0 days 15:15:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,30.0,PM
+0 days 15:45:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,30.0,PM
+0 days 16:15:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,30.0,PM
+0 days 16:45:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,30.0,PM
+0 days 17:15:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,30.0,PM
+0 days 17:45:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,30.0,PM
+0 days 18:15:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,30.0,PM
+0 days 19:15:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,,EV
+0 days 20:15:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,60.0,EV
+0 days 21:15:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,60.0,EV
+0 days 22:15:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,60.0,EV
+0 days 23:15:00,145,AATA_031_WB,shp-31-51,Dexter Ave to Jackson & Wagnor,1,60.0,EV
+0 days 07:12:00,1501,AATA_032_Branch,shp-32-07,Miller - Maple to Blake Transit Ctr,0,,AM
+0 days 07:15:00,160,AATA_032_Branch,shp-32-54,Miller - Maple to Pennsylvania & Maple,1,,AM
+0 days 07:42:00,1501,AATA_032_Branch,shp-32-07,Miller - Maple to Blake Transit Ctr,0,30.0,AM
+0 days 07:45:00,160,AATA_032_Branch,shp-32-54,Miller - Maple to Pennsylvania & Maple,1,30.0,AM
+0 days 14:42:00,1501,AATA_032_Branch,shp-32-07,Miller - Maple to Blake Transit Ctr,0,,PM
+0 days 14:45:00,160,AATA_032_Branch,shp-32-54,Miller - Maple to Pennsylvania & Maple,1,,PM
+0 days 15:12:00,1501,AATA_032_Branch,shp-32-07,Miller - Maple to Blake Transit Ctr,0,30.0,PM
+0 days 15:15:00,160,AATA_032_Branch,shp-32-54,Miller - Maple to Pennsylvania & Maple,1,30.0,PM
+0 days 06:12:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,,NT
+0 days 06:42:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,,AM
+0 days 08:12:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,90.0,AM
+0 days 08:42:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,30.0,AM
+0 days 09:12:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,,MD
+0 days 09:42:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,30.0,MD
+0 days 10:12:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,30.0,MD
+0 days 10:42:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,30.0,MD
+0 days 11:12:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,30.0,MD
+0 days 11:42:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,30.0,MD
+0 days 12:12:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,30.0,MD
+0 days 12:42:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,30.0,MD
+0 days 13:12:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,30.0,MD
+0 days 13:42:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,30.0,MD
+0 days 14:12:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,30.0,MD
+0 days 15:42:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,,PM
+0 days 16:12:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,30.0,PM
+0 days 16:42:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,30.0,PM
+0 days 17:12:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,30.0,PM
+0 days 17:42:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,30.0,PM
+0 days 18:12:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,30.0,PM
+0 days 18:42:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,,EV
+0 days 19:42:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,60.0,EV
+0 days 20:42:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,60.0,EV
+0 days 21:42:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,60.0,EV
+0 days 22:42:00,1501,AATA_032_EB,shp-32-06,Miller - Maple to Blake Transit Ctr,0,60.0,EV
+0 days 06:45:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,,AM
+0 days 08:15:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,90.0,AM
+0 days 08:45:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,30.0,AM
+0 days 09:15:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,,MD
+0 days 09:45:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,30.0,MD
+0 days 10:15:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,30.0,MD
+0 days 10:45:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,30.0,MD
+0 days 11:15:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,30.0,MD
+0 days 11:45:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,30.0,MD
+0 days 12:15:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,30.0,MD
+0 days 12:45:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,30.0,MD
+0 days 13:15:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,30.0,MD
+0 days 13:45:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,30.0,MD
+0 days 14:15:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,30.0,MD
+0 days 15:45:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,,PM
+0 days 16:15:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,30.0,PM
+0 days 16:45:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,30.0,PM
+0 days 17:15:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,30.0,PM
+0 days 17:45:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,30.0,PM
+0 days 18:15:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,30.0,PM
+0 days 19:15:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,,EV
+0 days 20:15:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,60.0,EV
+0 days 21:15:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,60.0,EV
+0 days 22:15:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,60.0,EV
+0 days 23:15:00,160,AATA_032_WB,shp-32-55,Miller - Maple to Pennsylvania & Maple,1,60.0,EV
+0 days 06:45:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,,AM
+0 days 07:15:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,AM
+0 days 07:45:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,AM
+0 days 08:06:00,908,AATA_033_Branch,shp-33-02,33 Warrington + Newport to BTC,0,,AM
+0 days 08:15:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,AM
+0 days 08:45:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,AM
+0 days 09:15:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,,MD
+0 days 09:45:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,MD
+0 days 10:15:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,MD
+0 days 10:45:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,MD
+0 days 11:15:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,MD
+0 days 11:45:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,MD
+0 days 12:15:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,MD
+0 days 12:45:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,MD
+0 days 13:15:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,MD
+0 days 13:45:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,MD
+0 days 14:15:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,MD
+0 days 14:45:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,,PM
+0 days 15:15:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,PM
+0 days 15:36:00,908,AATA_033_Branch,shp-33-02,33 Warrington + Newport to BTC,0,,PM
+0 days 15:45:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,PM
+0 days 16:15:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,PM
+0 days 16:45:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,PM
+0 days 17:15:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,PM
+0 days 17:45:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,PM
+0 days 18:15:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,PM
+0 days 18:45:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,,EV
+0 days 19:15:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,30.0,EV
+0 days 20:15:00,145,AATA_033_Branch,shp-33-51,Newport to Warrington & Newport,1,60.0,EV
+0 days 07:06:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,,AM
+0 days 07:36:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,30.0,AM
+0 days 08:36:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,60.0,AM
+0 days 09:06:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,,MD
+0 days 09:36:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,30.0,MD
+0 days 10:06:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,30.0,MD
+0 days 10:36:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,30.0,MD
+0 days 11:06:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,30.0,MD
+0 days 11:36:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,30.0,MD
+0 days 12:06:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,30.0,MD
+0 days 12:36:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,30.0,MD
+0 days 13:06:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,30.0,MD
+0 days 13:36:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,30.0,MD
+0 days 14:06:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,30.0,MD
+0 days 14:36:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,,PM
+0 days 15:06:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,30.0,PM
+0 days 16:06:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,60.0,PM
+0 days 16:36:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,30.0,PM
+0 days 17:06:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,30.0,PM
+0 days 17:36:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,30.0,PM
+0 days 18:06:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,30.0,PM
+0 days 18:36:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,,EV
+0 days 19:06:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,30.0,EV
+0 days 19:36:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,30.0,EV
+0 days 20:36:00,908,AATA_033_Loop,shp-33-01,Newport to Blake Transit Ctr,0,60.0,EV
+0 days 06:30:00,312,AATA_034_Branch,shp-34-01,Maple - Dexter to Blake Transit Ctr,0,,AM
+0 days 07:00:00,312,AATA_034_Branch,shp-34-01,Maple - Dexter to Blake Transit Ctr,0,30.0,AM
+0 days 07:30:00,312,AATA_034_Branch,shp-34-01,Maple - Dexter to Blake Transit Ctr,0,30.0,AM
+0 days 08:00:00,312,AATA_034_Branch,shp-34-01,Maple - Dexter to Blake Transit Ctr,0,30.0,AM
+0 days 08:30:00,312,AATA_034_Branch,shp-34-01,Maple - Dexter to Blake Transit Ctr,0,30.0,AM
+0 days 15:30:00,312,AATA_034_Branch,shp-34-01,Maple - Dexter to Blake Transit Ctr,0,,PM
+0 days 16:00:00,312,AATA_034_Branch,shp-34-01,Maple - Dexter to Blake Transit Ctr,0,30.0,PM
+0 days 16:30:00,312,AATA_034_Branch,shp-34-01,Maple - Dexter to Blake Transit Ctr,0,30.0,PM
+0 days 17:00:00,312,AATA_034_Branch,shp-34-01,Maple - Dexter to Blake Transit Ctr,0,30.0,PM
+0 days 17:30:00,312,AATA_034_Branch,shp-34-01,Maple - Dexter to Blake Transit Ctr,0,30.0,PM
+0 days 18:00:00,312,AATA_034_Branch,shp-34-01,Maple - Dexter to Blake Transit Ctr,0,30.0,PM
+0 days 06:45:00,145,AATA_034_Loop,shp-34-51,Maple - Dexter to Miller Rd P&R,1,,AM
+0 days 07:15:00,145,AATA_034_Loop,shp-34-51,Maple - Dexter to Miller Rd P&R,1,30.0,AM
+0 days 07:45:00,145,AATA_034_Loop,shp-34-51,Maple - Dexter to Miller Rd P&R,1,30.0,AM
+0 days 08:15:00,145,AATA_034_Loop,shp-34-51,Maple - Dexter to Miller Rd P&R,1,30.0,AM
+0 days 08:45:00,145,AATA_034_Loop,shp-34-51,Maple - Dexter to Miller Rd P&R,1,30.0,AM
+0 days 15:15:00,145,AATA_034_Loop,shp-34-51,Maple - Dexter to Miller Rd P&R,1,,PM
+0 days 15:45:00,145,AATA_034_Loop,shp-34-51,Maple - Dexter to Miller Rd P&R,1,30.0,PM
+0 days 16:15:00,145,AATA_034_Loop,shp-34-51,Maple - Dexter to Miller Rd P&R,1,30.0,PM
+0 days 16:45:00,145,AATA_034_Loop,shp-34-51,Maple - Dexter to Miller Rd P&R,1,30.0,PM
+0 days 17:15:00,145,AATA_034_Loop,shp-34-51,Maple - Dexter to Miller Rd P&R,1,30.0,PM
+0 days 17:45:00,145,AATA_034_Loop,shp-34-51,Maple - Dexter to Miller Rd P&R,1,30.0,PM
+0 days 06:15:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,,NT
+0 days 06:45:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,,AM
+0 days 07:15:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,30.0,AM
+0 days 07:45:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,30.0,AM
+0 days 08:15:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,30.0,AM
+0 days 08:45:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,30.0,AM
+0 days 09:15:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,,MD
+0 days 09:45:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,30.0,MD
+0 days 10:15:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,30.0,MD
+0 days 10:45:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,30.0,MD
+0 days 11:15:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,30.0,MD
+0 days 11:45:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,30.0,MD
+0 days 12:15:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,30.0,MD
+0 days 12:45:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,30.0,MD
+0 days 13:15:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,30.0,MD
+0 days 13:45:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,30.0,MD
+0 days 14:15:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,30.0,MD
+0 days 14:45:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,,PM
+0 days 15:15:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,30.0,PM
+0 days 15:45:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,30.0,PM
+0 days 16:15:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,30.0,PM
+0 days 16:45:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,30.0,PM
+0 days 17:15:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,30.0,PM
+0 days 17:45:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,30.0,PM
+0 days 18:15:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,30.0,PM
+0 days 19:15:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,,EV
+0 days 20:15:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,60.0,EV
+0 days 21:15:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,60.0,EV
+0 days 22:15:00,103,AATA_042_EB,shp-42-03,Forest - MacArthur to MacArthur & Harris,1,60.0,EV
+0 days 06:02:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,,NT
+0 days 06:32:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,,AM
+0 days 07:02:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,AM
+0 days 07:32:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,AM
+0 days 08:02:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,AM
+0 days 08:32:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,AM
+0 days 09:02:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,,MD
+0 days 09:32:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 10:02:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 10:32:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 11:02:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 11:32:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 12:02:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 12:32:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 13:02:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 13:32:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 14:02:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 14:32:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,,PM
+0 days 15:02:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 15:32:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 16:02:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 16:32:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 17:02:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 17:32:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 18:02:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 18:32:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,,EV
+0 days 19:32:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,60.0,EV
+0 days 20:32:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,60.0,EV
+0 days 21:32:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,60.0,EV
+0 days 22:32:00,156,AATA_042_WB,shp-42-52,Forest - MacArthur to Ypsilanti Transit Ctr,0,60.0,EV
+0 days 06:00:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,,NT
+0 days 06:30:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,,AM
+0 days 07:00:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,30.0,AM
+0 days 07:30:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,30.0,AM
+0 days 08:00:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,30.0,AM
+0 days 08:30:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,30.0,AM
+0 days 09:00:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,,MD
+0 days 09:30:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,30.0,MD
+0 days 10:00:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,30.0,MD
+0 days 10:30:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,30.0,MD
+0 days 11:00:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,30.0,MD
+0 days 11:30:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,30.0,MD
+0 days 12:00:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,30.0,MD
+0 days 12:30:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,30.0,MD
+0 days 13:00:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,30.0,MD
+0 days 13:30:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,30.0,MD
+0 days 14:00:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,30.0,MD
+0 days 14:30:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,,PM
+0 days 15:00:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,30.0,PM
+0 days 15:30:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,30.0,PM
+0 days 16:00:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,30.0,PM
+0 days 16:30:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,30.0,PM
+0 days 17:00:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,30.0,PM
+0 days 17:30:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,30.0,PM
+0 days 18:00:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,30.0,PM
+0 days 19:00:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,,EV
+0 days 20:00:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,60.0,EV
+0 days 21:00:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,60.0,EV
+0 days 22:00:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,60.0,EV
+0 days 23:00:00,108,AATA_043_EB,shp-43-02,E Michigan Ave to Holmes & Ridge,1,60.0,EV
+0 days 06:13:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,,NT
+0 days 06:43:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,,AM
+0 days 07:13:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,AM
+0 days 07:43:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,AM
+0 days 08:13:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,AM
+0 days 08:43:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,AM
+0 days 09:13:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,,MD
+0 days 09:43:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 10:13:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 10:43:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 11:13:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 11:43:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 12:13:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 12:43:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 13:13:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 13:43:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 14:13:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 14:43:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,,PM
+0 days 15:13:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 15:43:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 16:13:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 16:43:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 17:13:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 17:43:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 18:13:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 19:13:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,,EV
+0 days 20:13:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,60.0,EV
+0 days 21:13:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,60.0,EV
+0 days 22:13:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,60.0,EV
+0 days 23:13:00,1053,AATA_043_WB,shp-43-51,E Michigan Ave to Ypsilanti Transit Ctr,0,60.0,EV
+0 days 06:15:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,,NT
+0 days 06:45:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,,AM
+0 days 07:15:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,30.0,AM
+0 days 07:45:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,30.0,AM
+0 days 08:15:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,30.0,AM
+0 days 08:45:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,30.0,AM
+0 days 09:15:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,,MD
+0 days 09:45:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,30.0,MD
+0 days 10:15:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,30.0,MD
+0 days 10:45:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,30.0,MD
+0 days 11:15:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,30.0,MD
+0 days 11:45:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,30.0,MD
+0 days 12:15:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,30.0,MD
+0 days 12:45:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,30.0,MD
+0 days 13:15:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,30.0,MD
+0 days 13:45:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,30.0,MD
+0 days 14:15:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,30.0,MD
+0 days 14:45:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,,PM
+0 days 15:15:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,30.0,PM
+0 days 15:45:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,30.0,PM
+0 days 16:15:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,30.0,PM
+0 days 16:45:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,30.0,PM
+0 days 17:15:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,30.0,PM
+0 days 17:45:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,30.0,PM
+0 days 18:15:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,30.0,PM
+0 days 18:45:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,,EV
+0 days 19:45:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,60.0,EV
+0 days 20:45:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,60.0,EV
+0 days 21:45:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,60.0,EV
+0 days 22:45:00,103,AATA_044_EB,shp-44-02,44 Ecorse Tyler to West Willow,1,60.0,EV
+0 days 06:27:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,,NT
+0 days 06:57:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,,AM
+0 days 07:27:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,30.0,AM
+0 days 07:57:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,30.0,AM
+0 days 08:27:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,30.0,AM
+0 days 08:57:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,30.0,AM
+0 days 09:27:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,,MD
+0 days 09:57:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,30.0,MD
+0 days 10:27:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,30.0,MD
+0 days 10:57:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,30.0,MD
+0 days 11:27:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,30.0,MD
+0 days 11:57:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,30.0,MD
+0 days 12:27:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,30.0,MD
+0 days 12:57:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,30.0,MD
+0 days 13:27:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,30.0,MD
+0 days 13:57:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,30.0,MD
+0 days 14:27:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,30.0,MD
+0 days 14:57:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,,PM
+0 days 15:27:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,30.0,PM
+0 days 15:57:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,30.0,PM
+0 days 16:27:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,30.0,PM
+0 days 16:57:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,30.0,PM
+0 days 17:27:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,30.0,PM
+0 days 17:57:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,30.0,PM
+0 days 18:27:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,30.0,PM
+0 days 18:57:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,,EV
+0 days 19:57:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,60.0,EV
+0 days 20:57:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,60.0,EV
+0 days 21:57:00,161,AATA_044_WB,shp-44-52,44 Ecorse Tyler to YTC,0,60.0,EV
+0 days 06:30:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,,AM
+0 days 07:00:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,30.0,AM
+0 days 07:30:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,30.0,AM
+0 days 08:00:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,30.0,AM
+0 days 08:30:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,30.0,AM
+0 days 09:00:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,,MD
+0 days 09:30:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,30.0,MD
+0 days 10:00:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,30.0,MD
+0 days 10:30:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,30.0,MD
+0 days 11:00:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,30.0,MD
+0 days 11:30:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,30.0,MD
+0 days 12:00:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,30.0,MD
+0 days 12:30:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,30.0,MD
+0 days 13:00:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,30.0,MD
+0 days 13:30:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,30.0,MD
+0 days 14:00:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,30.0,MD
+0 days 14:30:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,,PM
+0 days 15:00:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,30.0,PM
+0 days 15:30:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,30.0,PM
+0 days 16:00:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,30.0,PM
+0 days 16:30:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,30.0,PM
+0 days 17:00:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,30.0,PM
+0 days 17:30:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,30.0,PM
+0 days 18:00:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,30.0,PM
+0 days 19:00:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,,EV
+0 days 20:00:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,60.0,EV
+0 days 21:00:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,60.0,EV
+0 days 22:00:00,115,AATA_045_EB,shp-45-03,Grove to Harry & Grove,1,60.0,EV
+0 days 06:45:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,,AM
+0 days 07:15:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,30.0,AM
+0 days 07:45:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,30.0,AM
+0 days 08:15:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,30.0,AM
+0 days 08:45:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,30.0,AM
+0 days 09:15:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,,MD
+0 days 09:45:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 10:15:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 10:45:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 11:15:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 11:45:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 12:15:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 12:45:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 13:15:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 13:45:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 14:15:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 14:45:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,,PM
+0 days 15:15:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 15:45:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 16:15:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 16:45:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 17:15:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 17:45:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 18:15:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 19:15:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,,EV
+0 days 20:15:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,60.0,EV
+0 days 21:15:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,60.0,EV
+0 days 22:15:00,16,AATA_045_WB,shp-45-51,Grove to Ypsilanti Transit Ctr,0,60.0,EV
+0 days 07:22:00,1497,AATA_046_Branch,shp-46-56,Huron-Paint Creek to Ypsilanti Transit Ctr,0,,AM
+0 days 07:52:00,1497,AATA_046_Branch,shp-46-56,Huron-Paint Creek to Ypsilanti Transit Ctr,0,30.0,AM
+0 days 15:22:00,1497,AATA_046_Branch,shp-46-56,Huron-Paint Creek to Ypsilanti Transit Ctr,0,,PM
+0 days 16:22:00,1497,AATA_046_Branch,shp-46-56,Huron-Paint Creek to Ypsilanti Transit Ctr,0,60.0,PM
+0 days 07:00:00,115,AATA_046_Branch - shp-46-04,shp-46-04,Huron Paint Creek to Huron and Textile,1,,AM
+0 days 07:30:00,115,AATA_046_Branch - shp-46-04,shp-46-04,Huron Paint Creek to Huron and Textile,1,30.0,AM
+0 days 15:00:00,115,AATA_046_Branch - shp-46-04,shp-46-04,Huron Paint Creek to Huron and Textile,1,,PM
+0 days 16:00:00,115,AATA_046_Branch - shp-46-04,shp-46-04,Huron Paint Creek to Huron and Textile,1,60.0,PM
+0 days 06:19:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,,NT
+0 days 06:49:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,,AM
+0 days 08:19:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,90.0,AM
+0 days 08:49:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,30.0,AM
+0 days 09:19:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,,MD
+0 days 09:49:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 10:19:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 10:49:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 11:19:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 11:49:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 12:19:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 12:49:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 13:19:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 13:49:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 14:19:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,30.0,MD
+0 days 14:49:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,,PM
+0 days 15:49:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,60.0,PM
+0 days 16:49:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,60.0,PM
+0 days 17:19:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 17:49:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 18:19:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,30.0,PM
+0 days 18:49:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,,EV
+0 days 19:19:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,30.0,EV
+0 days 20:19:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,60.0,EV
+0 days 21:19:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,60.0,EV
+0 days 22:19:00,1498,AATA_046_NB,shp-46-51,Paint Creek to Ypsilanti Transit Ctr,0,60.0,EV
+0 days 06:00:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,,NT
+0 days 06:30:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,,AM
+0 days 08:00:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,90.0,AM
+0 days 08:30:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,30.0,AM
+0 days 09:00:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,,MD
+0 days 09:30:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,30.0,MD
+0 days 10:00:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,30.0,MD
+0 days 10:30:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,30.0,MD
+0 days 11:00:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,30.0,MD
+0 days 11:30:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,30.0,MD
+0 days 12:00:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,30.0,MD
+0 days 12:30:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,30.0,MD
+0 days 13:00:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,30.0,MD
+0 days 13:30:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,30.0,MD
+0 days 14:00:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,30.0,MD
+0 days 14:30:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,,PM
+0 days 15:30:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,60.0,PM
+0 days 16:30:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,60.0,PM
+0 days 17:00:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,30.0,PM
+0 days 17:30:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,30.0,PM
+0 days 18:00:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,30.0,PM
+0 days 18:30:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,,EV
+0 days 19:00:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,30.0,EV
+0 days 20:00:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,60.0,EV
+0 days 21:00:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,60.0,EV
+0 days 22:00:00,115,AATA_046_SB,shp-46-02,Huron Paint Creek to Huron River + Textile,1,60.0,EV
+0 days 06:15:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,,NT
+0 days 06:45:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,,AM
+0 days 07:15:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,30.0,AM
+0 days 07:45:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,30.0,AM
+0 days 08:15:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,30.0,AM
+0 days 08:45:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,30.0,AM
+0 days 09:15:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,,MD
+0 days 09:45:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,30.0,MD
+0 days 10:15:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,30.0,MD
+0 days 10:45:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,30.0,MD
+0 days 11:15:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,30.0,MD
+0 days 11:45:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,30.0,MD
+0 days 12:15:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,30.0,MD
+0 days 12:45:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,30.0,MD
+0 days 13:15:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,30.0,MD
+0 days 13:45:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,30.0,MD
+0 days 14:15:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,30.0,MD
+0 days 14:45:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,,PM
+0 days 15:15:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,30.0,PM
+0 days 15:45:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,30.0,PM
+0 days 16:15:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,30.0,PM
+0 days 16:45:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,30.0,PM
+0 days 17:15:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,30.0,PM
+0 days 17:45:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,30.0,PM
+0 days 18:15:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,30.0,PM
+0 days 18:45:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,,EV
+0 days 19:45:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,60.0,EV
+0 days 20:45:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,60.0,EV
+0 days 21:45:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,60.0,EV
+0 days 22:45:00,1341,AATA_047_EB,shp-47-51,47 Harriet Michigan to YTC,0,60.0,EV
+0 days 06:00:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,,NT
+0 days 06:30:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,,AM
+0 days 07:00:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,AM
+0 days 07:30:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,AM
+0 days 08:00:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,AM
+0 days 08:30:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,AM
+0 days 09:00:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,,MD
+0 days 09:30:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,MD
+0 days 10:00:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,MD
+0 days 10:30:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,MD
+0 days 11:00:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,MD
+0 days 11:30:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,MD
+0 days 12:00:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,MD
+0 days 12:30:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,MD
+0 days 13:00:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,MD
+0 days 13:30:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,MD
+0 days 14:00:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,MD
+0 days 14:30:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,,PM
+0 days 15:00:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,PM
+0 days 15:30:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,PM
+0 days 16:00:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,PM
+0 days 16:30:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,PM
+0 days 17:00:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,PM
+0 days 17:30:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,PM
+0 days 18:00:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,PM
+0 days 18:30:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,,EV
+0 days 19:30:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,60.0,EV
+0 days 20:30:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,60.0,EV
+0 days 21:30:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,60.0,EV
+0 days 22:30:00,101,AATA_047_WB,shp-47-02,47 Harriet Michigan to Hewistt & Ellsworth,1,60.0,EV
+0 days 06:15:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,,NT
+0 days 06:45:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,,AM
+0 days 07:15:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,30.0,AM
+0 days 07:45:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,30.0,AM
+0 days 08:15:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,30.0,AM
+0 days 08:45:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,30.0,AM
+0 days 09:15:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,,MD
+0 days 09:45:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,30.0,MD
+0 days 10:15:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,30.0,MD
+0 days 10:45:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,30.0,MD
+0 days 11:15:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,30.0,MD
+0 days 11:45:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,30.0,MD
+0 days 12:15:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,30.0,MD
+0 days 12:45:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,30.0,MD
+0 days 13:15:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,30.0,MD
+0 days 13:45:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,30.0,MD
+0 days 14:15:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,30.0,MD
+0 days 14:45:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,,PM
+0 days 15:15:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,30.0,PM
+0 days 15:45:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,30.0,PM
+0 days 16:15:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,30.0,PM
+0 days 16:45:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,30.0,PM
+0 days 17:15:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,30.0,PM
+0 days 17:45:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,30.0,PM
+0 days 18:15:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,30.0,PM
+0 days 18:45:00,312,AATA_061_EB,shp-61-02,U-M Miller to Central Campus Transit Ctr,0,,EV
+0 days 06:52:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,,AM
+0 days 07:22:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,30.0,AM
+0 days 07:52:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,30.0,AM
+0 days 08:22:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,30.0,AM
+0 days 08:52:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,30.0,AM
+0 days 09:22:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,,MD
+0 days 09:52:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,30.0,MD
+0 days 10:22:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,30.0,MD
+0 days 10:52:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,30.0,MD
+0 days 11:22:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,30.0,MD
+0 days 11:52:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,30.0,MD
+0 days 12:22:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,30.0,MD
+0 days 12:52:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,30.0,MD
+0 days 13:22:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,30.0,MD
+0 days 13:52:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,30.0,MD
+0 days 14:22:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,30.0,MD
+0 days 14:52:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,,PM
+0 days 15:22:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,30.0,PM
+0 days 15:52:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,30.0,PM
+0 days 16:22:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,30.0,PM
+0 days 16:52:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,30.0,PM
+0 days 17:22:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,30.0,PM
+0 days 17:52:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,30.0,PM
+0 days 18:22:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,30.0,PM
+0 days 18:52:00,321,AATA_061_WB,shp-61-51,U-M Miller to Miller Rd P+R,1,,EV
+0 days 14:10:00,1103,AATA_062_Branch,shp-62-08,U-M - State to Central Campus Transit Ctr,1,,MD
+0 days 14:24:00,1103,AATA_062_Branch,shp-62-08,U-M - State to Central Campus Transit Ctr,1,14.0,MD
+0 days 14:38:00,1103,AATA_062_Branch,shp-62-08,U-M - State to Central Campus Transit Ctr,1,,PM
+0 days 14:51:00,1103,AATA_062_Branch,shp-62-08,U-M - State to Central Campus Transit Ctr,1,13.0,PM
+0 days 15:04:00,1103,AATA_062_Branch,shp-62-08,U-M - State to Central Campus Transit Ctr,1,13.0,PM
+0 days 15:17:00,1103,AATA_062_Branch,shp-62-08,U-M - State to Central Campus Transit Ctr,1,13.0,PM
+0 days 15:30:00,1103,AATA_062_Branch,shp-62-08,U-M - State to Central Campus Transit Ctr,1,13.0,PM
+0 days 15:43:00,1103,AATA_062_Branch,shp-62-08,U-M - State to Central Campus Transit Ctr,1,13.0,PM
+0 days 15:56:00,1103,AATA_062_Branch,shp-62-08,U-M - State to Central Campus Transit Ctr,1,13.0,PM
+0 days 16:09:00,1103,AATA_062_Branch,shp-62-08,U-M - State to Central Campus Transit Ctr,1,13.0,PM
+0 days 16:22:00,1103,AATA_062_Branch,shp-62-08,U-M - State to Central Campus Transit Ctr,1,13.0,PM
+0 days 16:35:00,1103,AATA_062_Branch,shp-62-08,U-M - State to Central Campus Transit Ctr,1,13.0,PM
+0 days 16:48:00,1103,AATA_062_Branch,shp-62-08,U-M - State to Central Campus Transit Ctr,1,13.0,PM
+0 days 17:01:00,1103,AATA_062_Branch,shp-62-08,U-M - State to Central Campus Transit Ctr,1,13.0,PM
+0 days 17:14:00,1103,AATA_062_Branch,shp-62-08,U-M - State to Central Campus Transit Ctr,1,13.0,PM
+0 days 17:27:00,1103,AATA_062_Branch,shp-62-08,U-M - State to Central Campus Transit Ctr,1,13.0,PM
+0 days 17:40:00,1103,AATA_062_Branch,shp-62-08,U-M - State to Central Campus Transit Ctr,1,13.0,PM
+0 days 17:53:00,1103,AATA_062_Branch,shp-62-08,U-M - State to Central Campus Transit Ctr,1,13.0,PM
+0 days 18:06:00,1103,AATA_062_Branch,shp-62-08,U-M - State to Central Campus Transit Ctr,1,13.0,PM
+0 days 18:32:00,1103,AATA_062_Branch,shp-62-08,U-M - State to Central Campus Transit Ctr,1,,EV
+0 days 18:47:00,97,AATA_062_Branch,shp-62-53,U-M - State to State P+R,0,,EV
+0 days 19:05:00,1107,AATA_062_Branch,shp-62-07,U-M - State St to Central Campus Transit Ctr,1,,EV
+0 days 19:17:00,97,AATA_062_Branch,shp-62-53,U-M - State to State P+R,0,30.0,EV
+0 days 19:35:00,1107,AATA_062_Branch,shp-62-07,U-M - State St to Central Campus Transit Ctr,1,30.0,EV
+0 days 19:47:00,97,AATA_062_Branch,shp-62-53,U-M - State to State P+R,0,30.0,EV
+0 days 20:05:00,1107,AATA_062_Branch,shp-62-07,U-M - State St to Central Campus Transit Ctr,1,30.0,EV
+0 days 20:17:00,97,AATA_062_Branch,shp-62-53,U-M - State to State P+R,0,30.0,EV
+0 days 20:35:00,1107,AATA_062_Branch,shp-62-07,U-M - State St to Central Campus Transit Ctr,1,30.0,EV
+0 days 20:47:00,97,AATA_062_Branch,shp-62-53,U-M - State to State P+R,0,30.0,EV
+0 days 21:05:00,1107,AATA_062_Branch,shp-62-07,U-M - State St to Central Campus Transit Ctr,1,30.0,EV
+0 days 21:17:00,97,AATA_062_Branch,shp-62-53,U-M - State to State P+R,0,30.0,EV
+0 days 21:35:00,1107,AATA_062_Branch,shp-62-07,U-M - State St to Central Campus Transit Ctr,1,30.0,EV
+0 days 21:47:00,97,AATA_062_Branch,shp-62-53,U-M - State to State P+R,0,30.0,EV
+0 days 06:40:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,,AM
+0 days 06:49:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,9.0,AM
+0 days 06:58:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,9.0,AM
+0 days 07:07:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,9.0,AM
+0 days 07:16:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,9.0,AM
+0 days 07:25:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,9.0,AM
+0 days 07:34:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,9.0,AM
+0 days 07:43:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,9.0,AM
+0 days 07:52:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,9.0,AM
+0 days 08:01:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,9.0,AM
+0 days 08:10:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,9.0,AM
+0 days 08:19:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,9.0,AM
+0 days 08:28:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,9.0,AM
+0 days 08:37:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,9.0,AM
+0 days 08:46:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,9.0,AM
+0 days 08:55:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,9.0,AM
+0 days 09:04:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,,MD
+0 days 09:13:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,9.0,MD
+0 days 09:22:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,9.0,MD
+0 days 09:31:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,9.0,MD
+0 days 09:40:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,9.0,MD
+0 days 09:49:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,9.0,MD
+0 days 09:58:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,9.0,MD
+0 days 10:12:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,14.0,MD
+0 days 10:26:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,14.0,MD
+0 days 10:40:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,14.0,MD
+0 days 10:54:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,14.0,MD
+0 days 11:08:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,14.0,MD
+0 days 11:22:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,14.0,MD
+0 days 11:36:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,14.0,MD
+0 days 11:50:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,14.0,MD
+0 days 12:04:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,14.0,MD
+0 days 12:18:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,14.0,MD
+0 days 12:32:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,14.0,MD
+0 days 12:46:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,14.0,MD
+0 days 13:00:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,14.0,MD
+0 days 13:14:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,14.0,MD
+0 days 13:28:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,14.0,MD
+0 days 13:42:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,14.0,MD
+0 days 13:56:00,1103,AATA_062_NB,shp-62-06,62 UM State to CCTC,1,14.0,MD
+0 days 06:59:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,,AM
+0 days 07:08:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,AM
+0 days 07:17:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,AM
+0 days 07:26:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,AM
+0 days 07:35:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,AM
+0 days 07:44:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,AM
+0 days 07:53:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,AM
+0 days 08:02:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,AM
+0 days 08:11:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,AM
+0 days 08:20:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,AM
+0 days 08:29:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,AM
+0 days 08:38:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,AM
+0 days 08:47:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,AM
+0 days 08:56:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,AM
+0 days 09:05:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,,MD
+0 days 09:14:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,MD
+0 days 09:23:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,MD
+0 days 09:32:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,MD
+0 days 09:41:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,MD
+0 days 09:50:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,MD
+0 days 09:59:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,MD
+0 days 10:08:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,MD
+0 days 10:17:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,MD
+0 days 10:32:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,15.0,MD
+0 days 10:46:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,14.0,MD
+0 days 11:00:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,14.0,MD
+0 days 11:14:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,14.0,MD
+0 days 11:28:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,14.0,MD
+0 days 11:42:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,14.0,MD
+0 days 11:56:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,14.0,MD
+0 days 12:10:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,14.0,MD
+0 days 12:24:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,14.0,MD
+0 days 12:38:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,14.0,MD
+0 days 12:52:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,14.0,MD
+0 days 13:06:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,14.0,MD
+0 days 13:20:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,14.0,MD
+0 days 13:34:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,14.0,MD
+0 days 13:48:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,14.0,MD
+0 days 14:02:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,14.0,MD
+0 days 14:16:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,14.0,MD
+0 days 14:25:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,9.0,MD
+0 days 14:39:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,,PM
+0 days 14:53:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,14.0,PM
+0 days 15:06:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,13.0,PM
+0 days 15:19:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,13.0,PM
+0 days 15:32:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,13.0,PM
+0 days 15:45:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,13.0,PM
+0 days 15:58:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,13.0,PM
+0 days 16:11:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,13.0,PM
+0 days 16:24:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,13.0,PM
+0 days 16:37:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,13.0,PM
+0 days 16:50:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,13.0,PM
+0 days 17:03:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,13.0,PM
+0 days 17:16:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,13.0,PM
+0 days 17:29:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,13.0,PM
+0 days 17:42:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,13.0,PM
+0 days 17:55:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,13.0,PM
+0 days 18:08:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,13.0,PM
+0 days 18:21:00,97,AATA_062_SB,shp-62-54,U-M - State St to Wolverine Tower,0,13.0,PM
+0 days 07:21:00,321,AATA_063_NB,shp-63-51,U-M - Pontiac to Food Gatherers,1,,AM
+0 days 07:51:00,321,AATA_063_NB,shp-63-51,U-M - Pontiac to Food Gatherers,1,30.0,AM
+0 days 08:21:00,321,AATA_063_NB,shp-63-51,U-M - Pontiac to Food Gatherers,1,30.0,AM
+0 days 15:51:00,321,AATA_063_NB,shp-63-51,U-M - Pontiac to Food Gatherers,1,,PM
+0 days 16:21:00,321,AATA_063_NB,shp-63-51,U-M - Pontiac to Food Gatherers,1,30.0,PM
+0 days 16:51:00,321,AATA_063_NB,shp-63-51,U-M - Pontiac to Food Gatherers,1,30.0,PM
+0 days 17:21:00,321,AATA_063_NB,shp-63-51,U-M - Pontiac to Food Gatherers,1,30.0,PM
+0 days 17:51:00,321,AATA_063_NB,shp-63-51,U-M - Pontiac to Food Gatherers,1,30.0,PM
+0 days 07:15:00,281,AATA_063_SB,shp-63-05,U-M - Pontiac to Central Campus Transit Center,0,,AM
+0 days 07:45:00,281,AATA_063_SB,shp-63-05,U-M - Pontiac to Central Campus Transit Center,0,30.0,AM
+0 days 08:15:00,281,AATA_063_SB,shp-63-05,U-M - Pontiac to Central Campus Transit Center,0,30.0,AM
+0 days 08:45:00,281,AATA_063_SB,shp-63-05,U-M - Pontiac to Central Campus Transit Center,0,30.0,AM
+0 days 16:15:00,281,AATA_063_SB,shp-63-05,U-M - Pontiac to Central Campus Transit Center,0,,PM
+0 days 16:45:00,281,AATA_063_SB,shp-63-05,U-M - Pontiac to Central Campus Transit Center,0,30.0,PM
+0 days 17:15:00,281,AATA_063_SB,shp-63-05,U-M - Pontiac to Central Campus Transit Center,0,30.0,PM
+0 days 17:45:00,281,AATA_063_SB,shp-63-05,U-M - Pontiac to Central Campus Transit Center,0,30.0,PM
+0 days 06:30:00,739,AATA_064_NB,shp-64-02,Geddes - E. Stadium to Central Campus Transit Ctr,0,,AM
+0 days 07:00:00,739,AATA_064_NB,shp-64-02,Geddes - E. Stadium to Central Campus Transit Ctr,0,30.0,AM
+0 days 07:30:00,739,AATA_064_NB,shp-64-02,Geddes - E. Stadium to Central Campus Transit Ctr,0,30.0,AM
+0 days 08:00:00,739,AATA_064_NB,shp-64-02,Geddes - E. Stadium to Central Campus Transit Ctr,0,30.0,AM
+0 days 08:30:00,739,AATA_064_NB,shp-64-02,Geddes - E. Stadium to Central Campus Transit Ctr,0,30.0,AM
+0 days 15:30:00,739,AATA_064_NB,shp-64-02,Geddes - E. Stadium to Central Campus Transit Ctr,0,,PM
+0 days 16:00:00,739,AATA_064_NB,shp-64-02,Geddes - E. Stadium to Central Campus Transit Ctr,0,30.0,PM
+0 days 16:30:00,739,AATA_064_NB,shp-64-02,Geddes - E. Stadium to Central Campus Transit Ctr,0,30.0,PM
+0 days 17:00:00,739,AATA_064_NB,shp-64-02,Geddes - E. Stadium to Central Campus Transit Ctr,0,30.0,PM
+0 days 17:30:00,739,AATA_064_NB,shp-64-02,Geddes - E. Stadium to Central Campus Transit Ctr,0,30.0,PM
+0 days 18:00:00,739,AATA_064_NB,shp-64-02,Geddes - E. Stadium to Central Campus Transit Ctr,0,30.0,PM
+0 days 07:06:00,97,AATA_064_SB,shp-64-53,Geddes - E. Stadium to Pioneer High School P&R ,1,,AM
+0 days 07:36:00,97,AATA_064_SB,shp-64-53,Geddes - E. Stadium to Pioneer High School P&R ,1,30.0,AM
+0 days 08:06:00,97,AATA_064_SB,shp-64-53,Geddes - E. Stadium to Pioneer High School P&R ,1,30.0,AM
+0 days 08:36:00,97,AATA_064_SB,shp-64-53,Geddes - E. Stadium to Pioneer High School P&R ,1,30.0,AM
+0 days 09:06:00,97,AATA_064_SB,shp-64-53,Geddes - E. Stadium to Pioneer High School P&R ,1,,MD
+0 days 16:06:00,97,AATA_064_SB,shp-64-53,Geddes - E. Stadium to Pioneer High School P&R ,1,,PM
+0 days 16:36:00,97,AATA_064_SB,shp-64-53,Geddes - E. Stadium to Pioneer High School P&R ,1,30.0,PM
+0 days 17:06:00,97,AATA_064_SB,shp-64-53,Geddes - E. Stadium to Pioneer High School P&R ,1,30.0,PM
+0 days 17:36:00,97,AATA_064_SB,shp-64-53,Geddes - E. Stadium to Pioneer High School P&R ,1,30.0,PM
+0 days 18:06:00,97,AATA_064_SB,shp-64-53,Geddes - E. Stadium to Pioneer High School P&R ,1,30.0,PM
+0 days 07:05:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,,AM
+0 days 07:35:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,AM
+0 days 08:05:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,AM
+0 days 08:35:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,AM
+0 days 09:05:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,,MD
+0 days 09:35:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,MD
+0 days 10:05:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,MD
+0 days 10:35:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,MD
+0 days 11:05:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,MD
+0 days 11:35:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,MD
+0 days 12:05:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,MD
+0 days 12:35:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,MD
+0 days 13:05:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,MD
+0 days 13:35:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,MD
+0 days 14:05:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,MD
+0 days 14:35:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,,PM
+0 days 15:05:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,PM
+0 days 15:35:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,PM
+0 days 16:05:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,PM
+0 days 16:35:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,PM
+0 days 17:05:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,PM
+0 days 17:35:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,PM
+0 days 18:05:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,PM
+0 days 18:35:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,,EV
+0 days 19:05:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,EV
+0 days 19:35:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,EV
+0 days 20:05:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,EV
+0 days 20:35:00,97,AATA_065_EB,shp-65-53,U-M - Downtown - Green to Glacier Hills,1,30.0,EV
+0 days 06:45:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,,AM
+0 days 07:15:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,AM
+0 days 07:45:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,AM
+0 days 08:15:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,AM
+0 days 08:45:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,AM
+0 days 09:15:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,,MD
+0 days 09:45:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,MD
+0 days 10:15:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,MD
+0 days 10:45:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,MD
+0 days 11:15:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,MD
+0 days 11:45:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,MD
+0 days 12:15:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,MD
+0 days 12:45:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,MD
+0 days 13:15:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,MD
+0 days 13:45:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,MD
+0 days 14:15:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,MD
+0 days 14:45:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,,PM
+0 days 15:15:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,PM
+0 days 15:45:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,PM
+0 days 16:15:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,PM
+0 days 16:45:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,PM
+0 days 17:15:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,PM
+0 days 17:45:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,PM
+0 days 18:15:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,PM
+0 days 18:45:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,,EV
+0 days 19:15:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,EV
+0 days 19:45:00,468,AATA_065_WB,shp-65-03,U-M - Downtown - Green to CCTC,0,30.0,EV
+0 days 06:35:00,617,AATA_066_Branch,shp-66-09,Carpenter - Huron Pkwy to Glacier Hills,1,,AM
+0 days 06:46:00,376,AATA_066_Branch,shp-66-57,Carpenter - Huron Pkwy to Meijer,0,,AM
+0 days 07:17:00,468,AATA_066_Branch,shp-66-52,Carpenter - Huron Pkwy to Meijer,0,,AM
+0 days 07:35:00,617,AATA_066_Branch,shp-66-07,Carpenter - Huron Pkwy to Green Rd Park & Ride,1,,AM
+0 days 14:50:00,165,AATA_066_Branch,shp-66-53,Carpenter - Huron Pkwy to Meijer,0,,PM
+0 days 15:05:00,617,AATA_066_Branch,shp-66-09,Carpenter - Huron Pkwy to Glacier Hills,1,,PM
+0 days 15:47:00,468,AATA_066_Branch,shp-66-52,Carpenter - Huron Pkwy to Meijer,0,,PM
+0 days 18:50:00,165,AATA_066_Branch,shp-66-59,Carpenter - Huron Pkwy to Washtenaw + Pittsfield,0,,EV
+0 days 18:35:00,617,AATA_066_NB_Eve,shp-66-08,Carpenter - Huron Pkwy to Pierpont Commons,1,,EV
+0 days 19:35:00,617,AATA_066_NB_Eve,shp-66-08,Carpenter - Huron Pkwy to Pierpont Commons,1,60.0,EV
+0 days 20:35:00,617,AATA_066_NB_Eve,shp-66-08,Carpenter - Huron Pkwy to Pierpont Commons,1,60.0,EV
+0 days 21:35:00,617,AATA_066_NB_Eve,shp-66-08,Carpenter - Huron Pkwy to Pierpont Commons,1,60.0,EV
+0 days 22:35:00,617,AATA_066_NB_Eve,shp-66-08,Carpenter - Huron Pkwy to Pierpont Commons,1,60.0,EV
+0 days 23:35:00,617,AATA_066_NB_Eve,shp-66-08,Carpenter - Huron Pkwy to Pierpont Commons,1,60.0,EV
+0 days 07:05:00,617,AATA_066_NB_PreEve,shp-66-10,Carpenter - Huron Pkwy to Green Rd P&R,1,,AM
+0 days 08:05:00,617,AATA_066_NB_PreEve,shp-66-10,Carpenter - Huron Pkwy to Green Rd P&R,1,60.0,AM
+0 days 08:35:00,617,AATA_066_NB_PreEve,shp-66-10,Carpenter - Huron Pkwy to Green Rd P&R,1,30.0,AM
+0 days 09:05:00,617,AATA_066_NB_PreEve,shp-66-10,Carpenter - Huron Pkwy to Green Rd P&R,1,,MD
+0 days 09:35:00,617,AATA_066_NB_PreEve,shp-66-10,Carpenter - Huron Pkwy to Green Rd P&R,1,30.0,MD
+0 days 10:05:00,617,AATA_066_NB_PreEve,shp-66-10,Carpenter - Huron Pkwy to Green Rd P&R,1,30.0,MD
+0 days 10:35:00,617,AATA_066_NB_PreEve,shp-66-10,Carpenter - Huron Pkwy to Green Rd P&R,1,30.0,MD
+0 days 11:05:00,617,AATA_066_NB_PreEve,shp-66-10,Carpenter - Huron Pkwy to Green Rd P&R,1,30.0,MD
+0 days 11:35:00,617,AATA_066_NB_PreEve,shp-66-10,Carpenter - Huron Pkwy to Green Rd P&R,1,30.0,MD
+0 days 12:05:00,617,AATA_066_NB_PreEve,shp-66-10,Carpenter - Huron Pkwy to Green Rd P&R,1,30.0,MD
+0 days 12:35:00,617,AATA_066_NB_PreEve,shp-66-10,Carpenter - Huron Pkwy to Green Rd P&R,1,30.0,MD
+0 days 13:05:00,617,AATA_066_NB_PreEve,shp-66-10,Carpenter - Huron Pkwy to Green Rd P&R,1,30.0,MD
+0 days 13:35:00,617,AATA_066_NB_PreEve,shp-66-10,Carpenter - Huron Pkwy to Green Rd P&R,1,30.0,MD
+0 days 14:05:00,617,AATA_066_NB_PreEve,shp-66-10,Carpenter - Huron Pkwy to Green Rd P&R,1,30.0,MD
+0 days 14:35:00,617,AATA_066_NB_PreEve,shp-66-10,Carpenter - Huron Pkwy to Green Rd P&R,1,,PM
+0 days 15:35:00,617,AATA_066_NB_PreEve,shp-66-10,Carpenter - Huron Pkwy to Green Rd P&R,1,60.0,PM
+0 days 16:05:00,617,AATA_066_NB_PreEve,shp-66-10,Carpenter - Huron Pkwy to Green Rd P&R,1,30.0,PM
+0 days 16:35:00,617,AATA_066_NB_PreEve,shp-66-10,Carpenter - Huron Pkwy to Green Rd P&R,1,30.0,PM
+0 days 17:05:00,617,AATA_066_NB_PreEve,shp-66-10,Carpenter - Huron Pkwy to Green Rd P&R,1,30.0,PM
+0 days 17:35:00,617,AATA_066_NB_PreEve,shp-66-10,Carpenter - Huron Pkwy to Green Rd P&R,1,30.0,PM
+0 days 18:05:00,617,AATA_066_NB_PreEve,shp-66-10,Carpenter - Huron Pkwy to Green Rd P&R,1,30.0,PM
+0 days 19:05:00,294,AATA_066_SB_Eve,shp-66-58,Carpenter - Huron Pkwy to Meijer Carpenter Rd,0,,EV
+0 days 20:05:00,294,AATA_066_SB_Eve,shp-66-58,Carpenter - Huron Pkwy to Meijer Carpenter Rd,0,60.0,EV
+0 days 21:05:00,294,AATA_066_SB_Eve,shp-66-58,Carpenter - Huron Pkwy to Meijer Carpenter Rd,0,60.0,EV
+0 days 22:05:00,294,AATA_066_SB_Eve,shp-66-58,Carpenter - Huron Pkwy to Meijer Carpenter Rd,0,60.0,EV
+0 days 23:05:00,294,AATA_066_SB_Eve,shp-66-58,Carpenter - Huron Pkwy to Meijer Carpenter Rd,0,60.0,EV
+0 days 06:50:00,165,AATA_066_SB_PreEve,shp-66-51,Carpenter - Huron Pkwy to Meijer,0,,AM
+0 days 07:50:00,165,AATA_066_SB_PreEve,shp-66-51,Carpenter - Huron Pkwy to Meijer,0,60.0,AM
+0 days 08:20:00,165,AATA_066_SB_PreEve,shp-66-51,Carpenter - Huron Pkwy to Meijer,0,30.0,AM
+0 days 08:50:00,165,AATA_066_SB_PreEve,shp-66-51,Carpenter - Huron Pkwy to Meijer,0,30.0,AM
+0 days 09:20:00,165,AATA_066_SB_PreEve,shp-66-51,Carpenter - Huron Pkwy to Meijer,0,,MD
+0 days 09:50:00,165,AATA_066_SB_PreEve,shp-66-51,Carpenter - Huron Pkwy to Meijer,0,30.0,MD
+0 days 10:20:00,165,AATA_066_SB_PreEve,shp-66-51,Carpenter - Huron Pkwy to Meijer,0,30.0,MD
+0 days 10:50:00,165,AATA_066_SB_PreEve,shp-66-51,Carpenter - Huron Pkwy to Meijer,0,30.0,MD
+0 days 11:20:00,165,AATA_066_SB_PreEve,shp-66-51,Carpenter - Huron Pkwy to Meijer,0,30.0,MD
+0 days 11:50:00,165,AATA_066_SB_PreEve,shp-66-51,Carpenter - Huron Pkwy to Meijer,0,30.0,MD
+0 days 12:20:00,165,AATA_066_SB_PreEve,shp-66-51,Carpenter - Huron Pkwy to Meijer,0,30.0,MD
+0 days 12:50:00,165,AATA_066_SB_PreEve,shp-66-51,Carpenter - Huron Pkwy to Meijer,0,30.0,MD
+0 days 13:20:00,165,AATA_066_SB_PreEve,shp-66-51,Carpenter - Huron Pkwy to Meijer,0,30.0,MD
+0 days 13:50:00,165,AATA_066_SB_PreEve,shp-66-51,Carpenter - Huron Pkwy to Meijer,0,30.0,MD
+0 days 14:20:00,165,AATA_066_SB_PreEve,shp-66-51,Carpenter - Huron Pkwy to Meijer,0,30.0,MD
+0 days 15:20:00,165,AATA_066_SB_PreEve,shp-66-51,Carpenter - Huron Pkwy to Meijer,0,,PM
+0 days 16:20:00,165,AATA_066_SB_PreEve,shp-66-51,Carpenter - Huron Pkwy to Meijer,0,60.0,PM
+0 days 16:50:00,165,AATA_066_SB_PreEve,shp-66-51,Carpenter - Huron Pkwy to Meijer,0,30.0,PM
+0 days 17:20:00,165,AATA_066_SB_PreEve,shp-66-51,Carpenter - Huron Pkwy to Meijer,0,30.0,PM
+0 days 17:50:00,165,AATA_066_SB_PreEve,shp-66-51,Carpenter - Huron Pkwy to Meijer,0,30.0,PM
+0 days 18:20:00,165,AATA_066_SB_PreEve,shp-66-51,Carpenter - Huron Pkwy to Meijer,0,30.0,PM
+0 days 06:30:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,,AM
+0 days 07:00:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,30.0,AM
+0 days 07:30:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,30.0,AM
+0 days 08:00:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,30.0,AM
+0 days 08:30:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,30.0,AM
+0 days 09:00:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,,MD
+0 days 09:30:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,30.0,MD
+0 days 10:00:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,30.0,MD
+0 days 10:30:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,30.0,MD
+0 days 11:00:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,30.0,MD
+0 days 11:30:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,30.0,MD
+0 days 12:00:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,30.0,MD
+0 days 12:30:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,30.0,MD
+0 days 13:00:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,30.0,MD
+0 days 13:30:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,30.0,MD
+0 days 14:00:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,30.0,MD
+0 days 14:30:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,,PM
+0 days 15:00:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,30.0,PM
+0 days 15:30:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,30.0,PM
+0 days 16:00:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,30.0,PM
+0 days 16:30:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,30.0,PM
+0 days 17:00:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,30.0,PM
+0 days 17:30:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,30.0,PM
+0 days 18:00:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,30.0,PM
+0 days 18:30:00,7,AATA_068_NB,shp-68-51,Harris - Ford to Holmes & Ridge,0,,EV
+0 days 06:13:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,,NT
+0 days 06:43:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,,AM
+0 days 07:13:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,30.0,AM
+0 days 07:43:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,30.0,AM
+0 days 08:13:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,30.0,AM
+0 days 08:43:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,30.0,AM
+0 days 09:13:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,,MD
+0 days 09:43:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,30.0,MD
+0 days 10:13:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,30.0,MD
+0 days 10:43:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,30.0,MD
+0 days 11:13:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,30.0,MD
+0 days 11:43:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,30.0,MD
+0 days 12:13:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,30.0,MD
+0 days 12:43:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,30.0,MD
+0 days 13:13:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,30.0,MD
+0 days 13:43:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,30.0,MD
+0 days 14:13:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,30.0,MD
+0 days 14:43:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,,PM
+0 days 15:13:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,30.0,PM
+0 days 15:43:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,30.0,PM
+0 days 16:13:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,30.0,PM
+0 days 16:43:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,30.0,PM
+0 days 17:13:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,30.0,PM
+0 days 17:43:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,30.0,PM
+0 days 18:13:00,1053,AATA_068_SB,shp-68-03,Harris -Ford to Gault Village,1,30.0,PM

@@ -1,0 +1,81 @@
+service_date,route_name,shape_id,route_id,trip_headsign,direction_id,AM,MD,PM,EV,NT
+20240128-20240824,AATA_066_Branch,shp-66-07,66,Carpenter - Huron Pkwy to Green Rd Park & Ride,1,150.0,999.0,999.0,999.0,999.0
+20240128-20240824,AATA_066_Branch,shp-66-57,66,Carpenter - Huron Pkwy to Meijer,0,150.0,999.0,999.0,999.0,999.0
+20240128-20240824,AATA_066_Branch,shp-66-52,66,Carpenter - Huron Pkwy to Meijer,0,150.0,999.0,240.0,999.0,999.0
+20240128-20240824,AATA_033_Branch,shp-33-02,33,33 Warrington + Newport to BTC,0,150.0,999.0,240.0,999.0,999.0
+20240128-20240824,AATA_066_Branch,shp-66-09,66,Carpenter - Huron Pkwy to Glacier Hills,1,150.0,999.0,240.0,999.0,999.0
+20240128-20240824,AATA_046_SB,shp-46-02,46,Huron Paint Creek to Huron River + Textile,1,60.0,30.0,42.0,102.0,210.0
+20240128-20240824,AATA_032_WB,shp-32-55,32,Miller - Maple to Pennsylvania & Maple,1,60.0,30.0,30.0,102.0,999.0
+20240128-20240824,AATA_046_NB,shp-46-51,46,Paint Creek to Ypsilanti Transit Ctr,0,60.0,30.0,42.0,102.0,210.0
+20240128-20240824,AATA_032_EB,shp-32-06,32,Miller - Maple to Blake Transit Ctr,0,60.0,30.0,30.0,102.0,210.0
+20240128-20240824,AATA_066_NB_PreEve,shp-66-10,66,Carpenter - Huron Pkwy to Green Rd P&R,1,45.0,30.0,35.0,999.0,999.0
+20240128-20240824,AATA_033_Loop,shp-33-01,33,Newport to Blake Transit Ctr,0,45.0,30.0,35.0,128.0,999.0
+20240128-20240824,AATA_066_SB_PreEve,shp-66-51,66,Carpenter - Huron Pkwy to Meijer,0,40.0,30.0,36.0,999.0,999.0
+20240128-20240824,AATA_045_WB,shp-45-51,45,Grove to Ypsilanti Transit Ctr,0,30.0,30.0,30.0,128.0,999.0
+20240128-20240824,AATA_005B_WB,shp-5-02,5,B Packard to BTC,0,30.0,30.0,30.0,999.0,999.0
+20240128-20240824,AATA_046_Branch - shp-46-04,shp-46-04,46,Huron Paint Creek to Huron and Textile,1,30.0,999.0,60.0,999.0,999.0
+20240128-20240824,AATA_046_Branch,shp-46-56,46,Huron-Paint Creek to Ypsilanti Transit Ctr,0,30.0,999.0,60.0,999.0,999.0
+20240128-20240824,AATA_047_WB,shp-47-02,47,47 Harriet Michigan to Hewistt & Ellsworth,1,30.0,30.0,30.0,102.0,210.0
+20240128-20240824,AATA_045_EB,shp-45-03,45,Grove to Harry & Grove,1,30.0,30.0,30.0,128.0,999.0
+20240128-20240824,AATA_047_EB,shp-47-51,47,47 Harriet Michigan to YTC,0,30.0,30.0,30.0,102.0,210.0
+20240128-20240824,AATA_005A_WB,shp-5-01,5,A Packard to BTC,0,30.0,30.0,30.0,57.0,210.0
+20240128-20240824,AATA_022_WB,shp-22-01,22,Pontiac - Dhu Varren to BTC,0,30.0,29.0,30.0,102.0,210.0
+20240128-20240824,AATA_006_WB,shp-6-10,6,Ellsworth to Blake Transit Ctr,0,30.0,30.0,30.0,102.0,999.0
+20240128-20240824,AATA_005A_EB,shp-5-07,5,Packard to Ypsilanti Transit Ctr,1,30.0,30.0,30.0,51.0,999.0
+20240128-20240824,AATA_005B_EB,shp-5-08,5,Packard to Meijer: Carpenter Rd,1,30.0,30.0,30.0,999.0,999.0
+20240128-20240824,AATA_044_EB,shp-44-02,44,44 Ecorse Tyler to West Willow,1,30.0,30.0,30.0,102.0,210.0
+20240128-20240824,AATA_006_EB,shp-6-62,6,Ellsworth to Ypsilanti Transit Ctr,1,30.0,30.0,30.0,102.0,999.0
+20240128-20240824,AATA_061_EB,shp-61-02,61,U-M Miller to Central Campus Transit Ctr,0,30.0,30.0,30.0,510.0,210.0
+20240128-20240824,AATA_061_WB,shp-61-51,61,U-M Miller to Miller Rd P+R,1,30.0,30.0,30.0,510.0,999.0
+20240128-20240824,AATA_063_SB,shp-63-05,63,U-M - Pontiac to Central Campus Transit Center,0,30.0,999.0,30.0,999.0,999.0
+20240128-20240824,AATA_063_NB,shp-63-51,63,U-M - Pontiac to Food Gatherers,1,30.0,999.0,30.0,999.0,999.0
+20240128-20240824,AATA_064_NB,shp-64-02,64,Geddes - E. Stadium to Central Campus Transit Ctr,0,30.0,999.0,30.0,999.0,999.0
+20240128-20240824,AATA_064_SB,shp-64-53,64,Geddes - E. Stadium to Pioneer High School P&R ,1,30.0,330.0,30.0,999.0,999.0
+20240128-20240824,AATA_065_WB,shp-65-03,65,U-M - Downtown - Green to CCTC,0,30.0,30.0,30.0,170.0,999.0
+20240128-20240824,AATA_065_EB,shp-65-53,65,U-M - Downtown - Green to Glacier Hills,1,30.0,30.0,30.0,102.0,999.0
+20240128-20240824,AATA_068_SB,shp-68-03,68,Harris -Ford to Gault Village,1,30.0,30.0,30.0,999.0,210.0
+20240128-20240824,AATA_044_WB,shp-44-52,44,44 Ecorse Tyler to YTC,0,30.0,30.0,30.0,128.0,210.0
+20240128-20240824,AATA_043_EB,shp-43-02,43,E Michigan Ave to Holmes & Ridge,1,30.0,30.0,30.0,102.0,210.0
+20240128-20240824,AATA_043_WB,shp-43-51,43,E Michigan Ave to Ypsilanti Transit Ctr,0,30.0,30.0,30.0,102.0,210.0
+20240128-20240824,AATA_030_WB,shp-30-05,30,Jackson Rd to Meijer: Jackson Rd,1,30.0,30.0,30.0,85.0,999.0
+20240128-20240824,AATA_024_WB,shp-24-01,24,Eisenhower - Golfside to Blake Transit Ctr,0,30.0,30.0,28.0,128.0,210.0
+20240128-20240824,AATA_024_EB,shp-24-59,24,Eisenhower - Golfside to St. Joe's Hospital,1,30.0,30.0,30.0,102.0,999.0
+20240128-20240824,AATA_025_NB,shp-25-09,25,Ann Arbor - Saline Rd to Blake Transit Ctr,0,30.0,30.0,30.0,85.0,210.0
+20240128-20240824,AATA_025_SB,shp-25-52,25,Ann Arbor - Saline Rd to Meijer: AA - Saline Rd,1,30.0,30.0,30.0,85.0,999.0
+20240128-20240824,AATA_026_EB,shp-26-01,26,Scio Church to BTC,0,30.0,50.0,30.0,102.0,210.0
+20240128-20240824,AATA_026_WB,shp-26-02,26,Scio Church to Scio Ridge,1,30.0,50.0,30.0,102.0,999.0
+20240128-20240824,AATA_027_NB,shp-27-04,27,W. Stadium - Oak Valley to Blake Transit Ctr,0,30.0,30.0,30.0,102.0,210.0
+20240128-20240824,AATA_027_SB,shp-27-52,27,W. Stadium - Oak Valley to Meijer,1,30.0,30.0,30.0,102.0,210.0
+20240128-20240824,AATA_029_EB,shp-29-01,29,Liberty to Blake Transit Ctr,0,30.0,45.0,35.0,999.0,210.0
+20240128-20240824,AATA_022_EB,shp-22-04,22,Pontiac - Dhu Varren to Pierpont Commons,1,30.0,30.0,30.0,102.0,999.0
+20240128-20240824,AATA_003_WB,shp-3-03,3, Huron River to BTC,0,30.0,30.0,30.0,128.0,210.0
+20240128-20240824,AATA_003_EB,shp-3-53,3, Huron River to YTC,1,30.0,30.0,30.0,128.0,999.0
+20240128-20240824,AATA_029_WB,shp-29-51,29,Liberty to Scio Ridge,1,30.0,45.0,35.0,999.0,999.0
+20240128-20240824,AATA_030_EB,shp-30-51,30,Jackson Rd to BTC,0,30.0,29.0,30.0,85.0,210.0
+20240128-20240824,AATA_032_Branch,shp-32-54,32,Miller - Maple to Pennsylvania & Maple,1,30.0,999.0,30.0,999.0,999.0
+20240128-20240824,AATA_042_WB,shp-42-52,42,Forest - MacArthur to Ypsilanti Transit Ctr,0,30.0,30.0,30.0,102.0,210.0
+20240128-20240824,AATA_042_EB,shp-42-03,42,Forest - MacArthur to MacArthur & Harris,1,30.0,30.0,30.0,128.0,210.0
+20240128-20240824,AATA_034_Loop,shp-34-51,34,Maple - Dexter to Miller Rd P&R,1,30.0,999.0,30.0,999.0,999.0
+20240128-20240824,AATA_034_Branch,shp-34-01,34,Maple - Dexter to Blake Transit Ctr,0,30.0,999.0,30.0,999.0,999.0
+20240128-20240824,AATA_031_EB,shp-31-04,31,Dexter Ave to Blake Transit Ctr,0,30.0,30.0,30.0,128.0,210.0
+20240128-20240824,AATA_033_Branch,shp-33-51,33,Newport to Warrington & Newport,1,30.0,30.0,30.0,170.0,999.0
+20240128-20240824,AATA_032_Branch,shp-32-07,32,Miller - Maple to Blake Transit Ctr,0,30.0,999.0,30.0,999.0,999.0
+20240128-20240824,AATA_031_WB,shp-31-51,31,Dexter Ave to Jackson & Wagnor,1,30.0,30.0,30.0,102.0,999.0
+20240128-20240824,AATA_068_NB,shp-68-51,68,Harris - Ford to Holmes & Ridge,0,30.0,30.0,30.0,510.0,999.0
+20240128-20240824,AATA_028_EB,shp-28-10,28,28 Pauline to BTC,0,15.0,30.0,18.0,102.0,105.0
+20240128-20240824,AATA_028_WB,shp-28-12,28,Pauline to Maple & Pennsylvania,1,15.0,30.0,18.0,102.0,999.0
+20240128-20240824,AATA_023_EB_Plymouth,shp-23-60,23,Plymouth to Plymouth Rd P&R,1,15.0,15.0,15.0,999.0,999.0
+20240128-20240824,AATA_023_WB_Plymouth,shp-23-06,23,Plymouth to Blake Transit Ctr,0,15.0,15.0,16.0,510.0,999.0
+20240128-20240824,AATA_062_SB,shp-62-54,62,U-M - State St to Wolverine Tower,0,9.0,12.0,13.0,999.0,999.0
+20240128-20240824,AATA_062_NB,shp-62-06,62,62 UM State to CCTC,1,9.0,13.0,999.0,999.0,999.0
+20240128-20240824,AATA_004_WB,shp-4-06,4,Washtenaw to BTC,0,8.0,13.0,10.0,51.0,53.0
+20240128-20240824,AATA_004_EB,shp-4-55,4,Washtenaw to YTC,1,8.0,13.0,9.0,46.0,999.0
+20240128-20240824,AATA_062_Branch,shp-62-08,62,U-M - State to Central Campus Transit Ctr,1,999.0,14.0,13.0,510.0,999.0
+20240128-20240824,AATA_023_EB_Green,shp-23-59,23,Plymouth to Green Rd P&R,1,999.0,999.0,240.0,51.0,999.0
+20240128-20240824,AATA_066_Branch,shp-66-53,66,Carpenter - Huron Pkwy to Meijer,0,999.0,999.0,240.0,999.0,999.0
+20240128-20240824,AATA_066_Branch,shp-66-59,66,Carpenter - Huron Pkwy to Washtenaw + Pittsfield,0,999.0,999.0,999.0,510.0,999.0
+20240128-20240824,AATA_066_SB_Eve,shp-66-58,66,Carpenter - Huron Pkwy to Meijer Carpenter Rd,0,999.0,999.0,999.0,102.0,999.0
+20240128-20240824,AATA_062_Branch,shp-62-07,62,U-M - State St to Central Campus Transit Ctr,1,999.0,999.0,999.0,85.0,999.0
+20240128-20240824,AATA_066_NB_Eve,shp-66-08,66,Carpenter - Huron Pkwy to Pierpont Commons,1,999.0,999.0,999.0,85.0,999.0
+20240128-20240824,AATA_062_Branch,shp-62-53,62,U-M - State to State P+R,0,999.0,999.0,999.0,73.0,999.0
+20240128-20240824,AATA_023_WB_Green,shp-23-07,23,Plymouth to Blake Transit Ctr,0,999.0,999.0,999.0,64.0,999.0
